@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,357 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,350 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (552) · [AI and ML](#remote-ai-and-ml-jobs) (233) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (201) · [Hardware](#remote-hardware-jobs) (73) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (549) · [AI and ML](#remote-ai-and-ml-jobs) (233) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (120) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (73) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -562,9 +562,6 @@
 | **GoodLeap** | [Senior Software Engineer](https://www.wobo.ai/job/senior-software-engineer-at-goodleap-pjvyxgcl4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Flexible within tech hubs |  | Nov&nbsp;4 |
 | **Pinterest Job Advertisements** | [Senior Software Engineer](https://www.wobo.ai/job/senior-software-engineer-at-pinterest-job-advertisements-pqjfry5xl/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | San Francisco, CA | \$203K to \$255K/yr | Nov&nbsp;4 |
 | **Pinterest** | [Staff Software Engineer, Ads Agent Infra](https://www.wobo.ai/job/staff-software-engineer-ads-agent-infra-at-pinterest-pqjnt21mo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA | \$208K to \$365K/yr | Nov&nbsp;4 |
-| **Health-eCommerce.com** | [Back End Developer - SFCC](https://www.wobo.ai/job/back-end-developer-sfcc-at-health-ecommercecom-pqnthle5h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$100K to \$150K/yr | Nov&nbsp;4 |
-| **Span** | [DevOps Engineer](https://www.wobo.ai/job/devops-engineer-at-span-pkf094stk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA |  | Nov&nbsp;4 |
-| **Endava** | [Systems Engineer-Cryptographic](https://www.wobo.ai/job/systems-engineer-cryptographic-at-endava-pprq2m2dg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
@@ -1116,7 +1113,6 @@
 | **PayPal** | [Director, Cybersecurity Engineering](https://www.wobo.ai/job/director-cybersecurity-engineering-at-paypal-q1nc4xotd/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Virginia, MN | \$198K to \$294K/yr | Nov&nbsp;4 |
 | **GDIT** | [Cybersecurity Engineer](https://www.wobo.ai/job/cybersecurity-engineer-at-gdit-pukp09hun/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$111K to \$150K/yr | Nov&nbsp;4 |
 | **Centene** | [Applications Security Engineer II](https://www.wobo.ai/job/applications-security-engineer-ii-at-centene-prv3rh3uw/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$75K to \$135K/yr | Nov&nbsp;4 |
-| **Hims & Hers** | [Sr. Application Security Engineer](https://www.wobo.ai/job/sr-application-security-engineer-at-hims-hers-pt8rkbfu0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
@@ -1322,9 +1318,6 @@
 | ↳ | [Sr. Product Manager, Strategic Growth – Data Capture Technologies & Partnerships](https://www.wobo.ai/job/sr-product-manager-strategic-growth-data-capture-technologies-partnerships-at-cardinal-pvt77q7dg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$107K to \$168K/yr | Nov&nbsp;4 |
 | **Point Digital Finance, Inc.** | [Senior Product Manager](https://www.wobo.ai/job/senior-product-manager-at-point-digital-finance-inc-pqq0bgyuo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$181K to \$200K/yr | Nov&nbsp;4 |
 | **PointClickCare** | [Outbound Product Manager - 12 month contract](https://www.wobo.ai/job/outbound-product-manager-12-month-contract-at-pointclickcare-pqijnts8y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$122K to \$152K/yr | Nov&nbsp;4 |
-| **Fieldguide** | [Lead / Principal / Staff Product Manager, Corporate Internal Audit](https://www.wobo.ai/job/leadprincipalstaff-product-manager-corporate-internal-audit-at-fieldguide-pkeq2qsu3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA |  | Nov&nbsp;4 |
-| ↳ | [Lead/Principal Product Manager, Tax Agents](https://www.wobo.ai/job/leadprincipal-product-manager-tax-agents-at-fieldguide-pkeq1hfim/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA |  | Nov&nbsp;4 |
-| **Basis Technologies** | [Sr Technical Product Manager - Identity](https://www.wobo.ai/job/sr-technical-product-manager-identity-at-basis-technologies-pmacd5z5y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
