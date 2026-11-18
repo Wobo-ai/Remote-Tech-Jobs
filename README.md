@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,359 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,357 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (553) · [AI and ML](#remote-ai-and-ml-jobs) (233) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (201) · [Hardware](#remote-hardware-jobs) (73) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (552) · [AI and ML](#remote-ai-and-ml-jobs) (233) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (201) · [Hardware](#remote-hardware-jobs) (73) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -565,7 +565,6 @@
 | **Health-eCommerce.com** | [Back End Developer - SFCC](https://www.wobo.ai/job/back-end-developer-sfcc-at-health-ecommercecom-pqnthle5h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$100K to \$150K/yr | Nov&nbsp;4 |
 | **Span** | [DevOps Engineer](https://www.wobo.ai/job/devops-engineer-at-span-pkf094stk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA |  | Nov&nbsp;4 |
 | **Endava** | [Systems Engineer-Cryptographic](https://www.wobo.ai/job/systems-engineer-cryptographic-at-endava-pprq2m2dg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;4 |
-| **Docker** | [Senior Software Engineer, Tooling (West Coast Preferred)](https://www.wobo.ai/job/senior-software-engineer-tooling-west-coast-preferred-at-docker-pkej97dlo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$161K to \$261K/yr | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
@@ -1118,7 +1117,6 @@
 | **GDIT** | [Cybersecurity Engineer](https://www.wobo.ai/job/cybersecurity-engineer-at-gdit-pukp09hun/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$111K to \$150K/yr | Nov&nbsp;4 |
 | **Centene** | [Applications Security Engineer II](https://www.wobo.ai/job/applications-security-engineer-ii-at-centene-prv3rh3uw/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$75K to \$135K/yr | Nov&nbsp;4 |
 | **Hims & Hers** | [Sr. Application Security Engineer](https://www.wobo.ai/job/sr-application-security-engineer-at-hims-hers-pt8rkbfu0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;4 |
-| **S-RM** | [Cyber Risk Advisory Consultant](https://www.wobo.ai/job/cyber-risk-advisory-consultant-at-s-rm-pqib0w2qa/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$110K to \$150K/yr | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
