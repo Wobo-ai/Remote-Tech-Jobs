@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,360 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,359 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:19 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (553) · [AI and ML](#remote-ai-and-ml-jobs) (233) · [Data](#remote-data-jobs) (178) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (201) · [Hardware](#remote-hardware-jobs) (73) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (553) · [AI and ML](#remote-ai-and-ml-jobs) (233) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (201) · [Hardware](#remote-hardware-jobs) (73) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -990,7 +990,6 @@
 | **KIPP** | [Senior Manager, Data Engineering](https://www.wobo.ai/job/senior-manager-data-engineering-at-kipp-ppsgl74lb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$120K to \$145K/yr | Nov&nbsp;4 |
 | **Lyra Health** | [Director, People Analytics and Workforce Intelligence](https://www.wobo.ai/job/director-people-analytics-and-workforce-intelligence-at-lyra-health-ps5dnjr11/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;4 |
 | **Airbnb** | [Staff, Advanced Analytics](https://www.wobo.ai/job/staff-advanced-analytics-at-airbnb-pqulxtt0v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) | \$180K to \$221K/yr | Nov&nbsp;4 |
-| **Penn Interactive** | [Business Intelligence Engineer](https://www.wobo.ai/job/business-intelligence-engineer-at-penn-interactive-pqjmbphmo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$80K to \$115K/yr | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
