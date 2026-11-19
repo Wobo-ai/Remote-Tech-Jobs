@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,359 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:03 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,354 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 4:03 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (563) · [AI and ML](#remote-ai-and-ml-jobs) (222) · [Data](#remote-data-jobs) (181) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (72) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (561) · [AI and ML](#remote-ai-and-ml-jobs) (221) · [Data](#remote-data-jobs) (180) · [Security](#remote-security-jobs) (120) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (72) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -574,8 +574,6 @@
 | **CVS Health** | [Senior Software Development Engineer (.NET, React, Azure)](https://www.wobo.ai/job/senior-software-development-engineer-net-react-azure-at-cvs-health-q19dswbzn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TX | \$83K to \$204K/yr | Nov&nbsp;5 |
 | **Cars.com** | [Lead Software Quality Test Engineer (Playwright)](https://www.wobo.ai/job/lead-software-quality-test-engineer-playwright-at-carscom-ryt2c8l1q/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | IL | \$135K to \$169K/yr | Nov&nbsp;5 |
 | **Boldyn Networks** | [Software Developer](https://www.wobo.ai/job/software-developer-at-boldyn-networks-qafk0c839/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TX | \$110K to \$130K/yr | Nov&nbsp;5 |
-| **Veolia** | [Senior Application Engineer - Ultrapure Water & Microelectronics](https://www.wobo.ai/job/senior-application-engineer-ultrapure-water-microelectronics-at-veolia-pzga2ngw1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Portland, OR +4 | \$109K to \$155K/yr | Nov&nbsp;5 |
-| **DOSS** | [Senior Forward Deployed Product Manager](https://www.wobo.ai/job/senior-forward-deployed-product-manager-at-doss-q227hcwwq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -804,7 +802,6 @@
 | **Leidos** | [AI/Automation Development Intern - Assessment & Authorization](https://www.wobo.ai/job/aiautomation-development-intern-assessment-authorization-at-leidos-qgs1i9t2u/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$48K to \$87K/yr | Nov&nbsp;5 |
 | **Genesys** | [Principal AI Solutions Architect, Customer Success](https://www.wobo.ai/job/principal-ai-solutions-architect-customer-success-at-genesys-qh5thwb8m/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$134K to \$236K/yr | Nov&nbsp;5 |
 | **GE Aerospace** | [Sr Staff Applications Operations Engineer – Engineering Tools Automation & AI Ops](https://www.wobo.ai/job/sr-staff-applications-operations-engineer-engineering-tools-automation-ai-ops-at-ge-q1ihgtsn0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Evendale, OH | \$131K to \$174K/yr | Nov&nbsp;5 |
-| **SeatGeek** | [Senior Fullstack Engineer, FanX AI](https://www.wobo.ai/job/senior-fullstack-engineer-fanx-ai-at-seatgeek-pzi1vwtbu/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$144K to \$209K/yr | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -992,7 +989,6 @@
 | ↳ | [Senior Data Engineer](https://www.wobo.ai/job/senior-data-engineer-at-leidos-qgs14buwz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$108K to \$195K/yr | Nov&nbsp;5 |
 | **Humana** | [Forward Deployed Engineer, Senior - Data & Analytics](https://www.wobo.ai/job/forward-deployed-engineer-senior-data-analytics-at-humana-q9iubepjh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Louisville, KY | \$118K to \$162K/yr | Nov&nbsp;5 |
 | **College Board** | [Director, Higher Education Data Strategy & Analytics](https://www.wobo.ai/job/director-higher-education-data-strategy-analytics-at-college-board-q2241vm34/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$80K to \$125K/yr | Nov&nbsp;5 |
-| **Fanatics Betting & Gaming** | [Staff Analyst, Ops Ecosystem Analytics](https://www.wobo.ai/job/staff-analyst-ops-ecosystem-analytics-at-fanatics-betting-gaming-pzpthn3c4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$160K to \$200K/yr | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -1120,7 +1116,6 @@
 | **Stryker** | [Principal, Cybersecurity Incident Responder - Remote](https://www.wobo.ai/job/principal-cybersecurity-incident-responder-remote-at-stryker-q1zgtgvzb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Kalamazoo, MI | \$136K to \$260K/yr | Nov&nbsp;5 |
 | **BRG** | [Cybersecurity Analyst](https://www.wobo.ai/job/cybersecurity-analyst-at-brg-q188tb1ek/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$90K to \$120K/yr | Nov&nbsp;5 |
 | **LiveKit** | [Security Engineer, Vulnerability Management](https://www.wobo.ai/job/security-engineer-vulnerability-management-at-livekit-q227fplny/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
-| **Blueberry Pediatrics** | [Security Engineer](https://www.wobo.ai/job/security-engineer-at-blueberry-pediatrics-q224m72so/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$110K to \$140K/yr | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
