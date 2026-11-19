@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,331 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,326 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 12:39 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (175) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (195) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (538) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (175) · [Security](#remote-security-jobs) (120) · [Product and design](#remote-product-and-design-jobs) (194) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -551,9 +551,6 @@
 | **Mimica** | [Forward Deployed Engineer, Intelligent Automation](https://www.wobo.ai/job/forward-deployed-engineer-intelligent-automation-at-mimica-pu4djt36b/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | NY |  | Nov&nbsp;5 |
 | **Snowflake** | [Senior Solutions Engineer, Observe](https://www.wobo.ai/job/senior-solutions-engineer-observe-at-snowflake-pu71rrv43/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY |  | Nov&nbsp;5 |
 | **Miratech** | [Full Stack Java Engineer](https://www.wobo.ai/job/full-stack-java-engineer-at-miratech-pz83fct50/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
-| **Swingtech** | [Web Developer / UI/UX Specialist- Remote (DC, MD, VA- Locals only)](https://www.wobo.ai/job/web-developer-uiux-specialist-remote-dc-md-va-locals-only-at-swingtech-pkwhz1dzs/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | MD |  | Nov&nbsp;5 |
-| ↳ | [Senior Architect / DevOps Engineer- Remote (DC, MD, VA- Locals only)](https://www.wobo.ai/job/senior-architect-devops-engineer-remote-dc-md-va-locals-only-at-swingtech-pkwhxeyuk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | MD |  | Nov&nbsp;5 |
-| ↳ | [DevOps Engineer -Remote (DC, MD, VA- Locals only)](https://www.wobo.ai/job/devops-engineer-remote-dc-md-va-locals-only-at-swingtech-pkwhv5pkl/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | MD |  | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -1003,7 +1000,6 @@
 | **Capital Markets Gateway** | [Security Operations Engineer](https://www.wobo.ai/job/security-operations-engineer-at-capital-markets-gateway-rskcesznz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;16 |
 | **DeVry University** | [Online Visiting Professor of Cybersecurity](https://www.wobo.ai/job/online-visiting-professor-of-cybersecurity-at-devry-university-rp68bpzv5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) |  | Nov&nbsp;16 |
 | **Resilience** | [Cyber Security Engineer II](https://www.wobo.ai/job/cyber-security-engineer-ii-at-resilience-rqonty20l/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$70K to \$108K/yr | Nov&nbsp;15 |
-| **Medical University of South Carolina** | [Information Security Specialist / Engineer III (Cyber Defense) - Information Solutions](https://www.wobo.ai/job/information-security-specialistengineer-iii-cyber-defense-information-solutions-at-rtupwc1gy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;15 |
 | **Live Nation Entertainment** | [Senior Counsel, Cyber & Incident Response](https://www.wobo.ai/job/senior-counsel-cyber-incident-response-at-live-nation-entertainment-rupt40orl/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) | \$180K to \$225K/yr | Nov&nbsp;15 |
 | **Leidos** | [Network Vulnerability Remediation Engineer – Junior Level](https://www.wobo.ai/job/network-vulnerability-remediation-engineer-junior-level-at-leidos-ruubg7f6m/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$59K to \$107K/yr | Nov&nbsp;15 |
 | ↳ | [Network Security Vulnerability Remediation Engineer – Mid-Level](https://www.wobo.ai/job/network-security-vulnerability-remediation-engineer-mid-level-at-leidos-ruubcqsgw/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$73K to \$133K/yr | Nov&nbsp;15 |
@@ -1300,7 +1296,6 @@
 | **PointClickCare** | [Principal Product Manager, Revenue Cycle Management](https://www.wobo.ai/job/principal-product-manager-revenue-cycle-management-at-pointclickcare-pzg5bdyix/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$156K to \$195K/yr | Nov&nbsp;5 |
 | **Onit, Inc.** | [Senior Product Designer](https://www.wobo.ai/job/senior-product-designer-at-onit-inc-rgl9f2co1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 | **Babylist** | [Principal Product Designer](https://www.wobo.ai/job/principal-product-designer-at-babylist-pzi4zfwyc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$244K to \$293K/yr | Nov&nbsp;5 |
-| **Inktavo + OrderMyGear** | [Associate Product Designer](https://www.wobo.ai/job/associate-product-designer-at-inktavo-ordermygear-pkug5798c/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Dallas, TX |  | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
