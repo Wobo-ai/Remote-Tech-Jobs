@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,336 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,335 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (176) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -826,7 +826,6 @@
 | ↳ | [Senior Principal, Integrated Product Analytics Engineer (Remote)](https://www.wobo.ai/job/senior-principal-integrated-product-analytics-engineer-remote-at-rtx-rxu83ogau/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$132K to \$252K/yr | Nov&nbsp;16 |
 | **North Carolina Department of Public Instruction** | [Data Architect](https://www.wobo.ai/job/data-architect-at-north-carolina-department-of-public-instruction-rulx804n3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Wake County, North Carolina, United States, NC | \$92K to \$139K/yr | Nov&nbsp;16 |
 | **JLL** | [Staff Data Engineer](https://www.wobo.ai/job/staff-data-engineer-at-jll-rvbbbr8ls/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Tampa, FL | \$142K to \$206K/yr | Nov&nbsp;16 |
-| ↳ | [Principal Data Engineer](https://www.wobo.ai/job/principal-data-engineer-at-jll-rvbb7y48y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Chicago, IL | \$196K to \$235K/yr | Nov&nbsp;16 |
 | **Humana** | [Data Engineer](https://www.wobo.ai/job/data-engineer-at-humana-rujamarra/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Louisville, KY | \$98K to \$134K/yr | Nov&nbsp;16 |
 | **Highmark Health** | [Data Engineer](https://www.wobo.ai/job/data-engineer-at-highmark-health-ruf1dx5h0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | PA | \$86K to \$139K/yr | Nov&nbsp;16 |
 | **GoHealth Urgent Care** | [Senior Business Intelligence Analyst](https://www.wobo.ai/job/senior-business-intelligence-analyst-at-gohealth-urgent-care-rua3yepp6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$84K to \$115K/yr | Nov&nbsp;16 |
