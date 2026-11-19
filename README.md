@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,335 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,333 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (176) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (176) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (196) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1100,7 +1100,6 @@
 | **Mom's Meals \| A Purfoods Company** | [Information Vulnerability Management Engineer](https://www.wobo.ai/job/information-vulnerability-management-engineer-at-moms-meals-a-purfoods-company-pz9ahlhif/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Ankeny, IA | \$89K to \$94K/yr | Nov&nbsp;5 |
 | **GitLab** | [Principal Field Security Engineer (US)](https://www.wobo.ai/job/principal-field-security-engineer-us-at-gitlab-pz95lad0w/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$203K to \$285K/yr | Nov&nbsp;5 |
 | **Runware** | [Senior Security Engineer](https://www.wobo.ai/job/senior-security-engineer-at-runware-plm89xak6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
-| **Censys** | [Partner Sales Manager – Cybersecurity Alliances & MSSP](https://www.wobo.ai/job/partner-sales-manager-cybersecurity-alliances-mssp-at-censys-pqllxdid3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$220K to \$320K/yr | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
@@ -1304,7 +1303,6 @@
 | **Onit, Inc.** | [Senior Product Designer](https://www.wobo.ai/job/senior-product-designer-at-onit-inc-rgl9f2co1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 | **Babylist** | [Principal Product Designer](https://www.wobo.ai/job/principal-product-designer-at-babylist-pzi4zfwyc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$244K to \$293K/yr | Nov&nbsp;5 |
 | **Inktavo + OrderMyGear** | [Associate Product Designer](https://www.wobo.ai/job/associate-product-designer-at-inktavo-ordermygear-pkug5798c/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Dallas, TX |  | Nov&nbsp;5 |
-| **BILL** | [Product Manager - Onboarding](https://www.wobo.ai/job/product-manager-onboarding-at-bill-pqlo3mpbo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$100K to \$142K/yr | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
