@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,370 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,368 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (562) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (184) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (205) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (561) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (184) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (204) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -574,7 +574,6 @@
 | **PointClickCare** | [Principal Application Engineer (Salesforce)](https://www.wobo.ai/job/principal-application-engineer-salesforce-at-pointclickcare-pzg5a243c/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 | **HHAeXchange** | [Director, Site Reliability Engineering](https://www.wobo.ai/job/director-site-reliability-engineering-at-hhaexchange-pv7ar4adt/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$230K/yr | Nov&nbsp;5 |
 | **Parachute Health** | [Staff Software Engineer, Eligibility & Benefits](https://www.wobo.ai/job/staff-software-engineer-eligibility-benefits-at-parachute-health-pz98vs4cz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$260K/yr | Nov&nbsp;5 |
-| **Exiger** | [Senior Software Engineer (L4)](https://www.wobo.ai/job/senior-software-engineer-l4-at-exiger-pzi1plif6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | McLean, VA |  | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -1339,7 +1338,6 @@
 | **Luxury Presence** | [Staff Product Manager, Marketing Automation - US (Remote)](https://www.wobo.ai/job/staff-product-manager-marketing-automation-us-remote-at-luxury-presence-q7o2q1n76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 | **GitLab** | [Director of Product Management, Platforms](https://www.wobo.ai/job/director-of-product-management-platforms-at-gitlab-pz95iuahj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$203K to \$346K/yr | Nov&nbsp;5 |
 | **RapidAI** | [Senior Product Manager - Neurology](https://www.wobo.ai/job/senior-product-manager-neurology-at-rapidai-puggx6c7o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
-| **ARB Interactive** | [Product Designer](https://www.wobo.ai/job/product-designer-at-arb-interactive-pt8g223q0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Miami, FL |  | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
