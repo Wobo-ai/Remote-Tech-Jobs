@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,382 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,377 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 19, 2026, 5:05 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (568) · [AI and ML](#remote-ai-and-ml-jobs) (230) · [Data](#remote-data-jobs) (184) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (207) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (565) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (184) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (207) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -578,9 +578,6 @@
 | **Exiger** | [Senior Software Engineer (L4)](https://www.wobo.ai/job/senior-software-engineer-l4-at-exiger-pzi1plif6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | McLean, VA |  | Nov&nbsp;5 |
 | **Socure** | [Staff Backend Graph Engineer](https://www.wobo.ai/job/staff-backend-graph-engineer-at-socure-pt8q8513y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Incline Village, NV |  | Nov&nbsp;5 |
 | **Motional** | [Staff Software Engineer, Autonomous Vehicle Performance Metrics](https://www.wobo.ai/job/staff-software-engineer-autonomous-vehicle-performance-metrics-at-motional-pzno12gh7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Boston, MA | \$172K to \$229K/yr | Nov&nbsp;5 |
-| **Qualia** | [Senior Software Engineer II, Cloud Security](https://www.wobo.ai/job/senior-software-engineer-ii-cloud-security-at-qualia-pzi5ndbl6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Austin, TX |  | Nov&nbsp;5 |
-| **Skydio** | [Solutions Engineer – State, Local, Educational (SLED) Corrections Security](https://www.wobo.ai/job/solutions-engineer-state-local-educational-sled-corrections-security-at-skydio-pt8y50qrw/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Mateo, CA | \$150K to \$200K/yr | Nov&nbsp;5 |
-| ↳ | [Solutions Engineer – State, Local, Educational (SLED) Campus Security](https://www.wobo.ai/job/solutions-engineer-state-local-educational-sled-campus-security-at-skydio-pt8y469cs/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Mateo, CA | \$150K to \$200K/yr | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
@@ -816,8 +813,6 @@
 | **Tilt Finance** | [Staff Machine Learning Engineer](https://www.wobo.ai/job/staff-machine-learning-engineer-at-tilt-finance-q269wv6ks/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 | **Natera** | [Lead Bioinformatics & Machine Learning Scientist (Epigenomics)](https://www.wobo.ai/job/lead-bioinformatics-machine-learning-scientist-epigenomics-at-natera-pzg50xzp2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) | \$146K to \$180K/yr | Nov&nbsp;5 |
 | **PAR Technology** | [AI Solutions Architect](https://www.wobo.ai/job/ai-solutions-architect-at-par-technology-pt8fsgd25/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | PA |  | Nov&nbsp;5 |
-| **Xplor** | [Head of AI and ML](https://www.wobo.ai/job/head-of-ai-and-ml-at-xplor-pyq2win7j/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | OR |  | Nov&nbsp;5 |
-| **OpenAI** | [Applied AI Delivery Lead - Remote in AMER](https://www.wobo.ai/job/applied-ai-delivery-lead-remote-in-amer-at-openai-pu7hvov3t/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;5 |
 
 [Back to sections](#sections)
 
