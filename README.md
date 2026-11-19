@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,333 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,331 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 18, 2026, 4:00 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (176) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (196) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (541) · [AI and ML](#remote-ai-and-ml-jobs) (228) · [Data](#remote-data-jobs) (175) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (195) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -971,7 +971,6 @@
 | **Fanatics Betting & Gaming** | [Staff Analyst, Ops Ecosystem Analytics](https://www.wobo.ai/job/staff-analyst-ops-ecosystem-analytics-at-fanatics-betting-gaming-pzpthn3c4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$160K to \$200K/yr | Nov&nbsp;5 |
 | **Axon** | [Data Analytics Support Engineer](https://www.wobo.ai/job/data-analytics-support-engineer-at-axon-pzn79nywx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Scottsdale, AZ |  | Nov&nbsp;5 |
 | **Branch Insurance** | [Analytics Engineer II](https://www.wobo.ai/job/analytics-engineer-ii-at-branch-insurance-pu4evjc2q/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Columbus, OH |  | Nov&nbsp;5 |
-| **ŌURA** | [Senior Data Scientist, Hardware Quality](https://www.wobo.ai/job/senior-data-scientist-hardware-quality-at-oura-pqqn8l9yv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$172K to \$203K/yr | Nov&nbsp;4 |
 
 [Back to sections](#sections)
 
@@ -1278,8 +1277,7 @@
 | **Humana** | [Senior Product Manager](https://www.wobo.ai/job/senior-product-manager-at-humana-qzdrfjpuh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$104K to \$143K/yr | Nov&nbsp;8 |
 | ↳ | [Lead Product Manager, Compliance Ops](https://www.wobo.ai/job/lead-product-manager-compliance-ops-at-humana-qqhbsutxl/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$126K to \$174K/yr | Nov&nbsp;8 |
 | **DISA Global Solutions** | [Senior Product Owner](https://www.wobo.ai/job/senior-product-owner-at-disa-global-solutions-r0668513e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$85K to \$105K/yr | Nov&nbsp;8 |
-| **CVS Health** | [Senior Product Manager, New Product Development](https://www.wobo.ai/job/senior-product-manager-new-product-development-at-cvs-health-r18z37for/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$130K to \$261K/yr | Nov&nbsp;8 |
-| ↳ | [Senior Manager, Digital UX Design](https://www.wobo.ai/job/senior-manager-digital-ux-design-at-cvs-health-qrzu3hd63/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$261K/yr | Nov&nbsp;8 |
+| **CVS Health** | [Senior Manager, Digital UX Design](https://www.wobo.ai/job/senior-manager-digital-ux-design-at-cvs-health-qrzu3hd63/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$261K/yr | Nov&nbsp;8 |
 | **Phantom** | [UX Researcher](https://www.wobo.ai/job/ux-researcher-at-phantom-q2xyoarmp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$250K/yr | Nov&nbsp;6 |
 | **Numa** | [Product Manager](https://www.wobo.ai/job/product-manager-at-numa-q8bftsax9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$150K to \$220K/yr | Nov&nbsp;6 |
 | **Canals** | [Senior Product Designer](https://www.wobo.ai/job/senior-product-designer-at-canals-qapnjmrdi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY |  | Nov&nbsp;6 |
