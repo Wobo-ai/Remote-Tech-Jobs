@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,415 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,414 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (589) · [AI and ML](#remote-ai-and-ml-jobs) (240) · [Data](#remote-data-jobs) (178) · [Security](#remote-security-jobs) (135) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (75) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (590) · [AI and ML](#remote-ai-and-ml-jobs) (240) · [Data](#remote-data-jobs) (178) · [Security](#remote-security-jobs) (134) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (75) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Intertek USA** | [Staff Software Developer (Mobile)](https://www.wobo.ai/job/staff-software-developer-mobile-at-intertek-usa-sbz53acyc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Denver, CO |  | Nov&nbsp;20 |
 | **Lightning AI** | [Engineering Manager, Infrastructure Software](https://www.wobo.ai/job/engineering-manager-infrastructure-software-at-lightning-ai-sci2va0z7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$205K to \$310K/yr | Nov&nbsp;20 |
 | **Miratech** | [Full Stack Java Engineer](https://www.wobo.ai/job/full-stack-java-engineer-at-miratech-scc8foca1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Texas City, TX +1 |  | Nov&nbsp;20 |
 | **ProShop ERP** | [Product Solutions Engineer](https://www.wobo.ai/job/product-solutions-engineer-at-proshop-erp-sawpe22mh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;20 |
@@ -1175,7 +1176,6 @@
 | **Cars.com** | [Principal Security Engineer](https://www.wobo.ai/job/principal-security-engineer-at-carscom-ryt227hlg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$176K to \$220K/yr | Nov&nbsp;8 |
 | **Gartner** | [Sr. Director, Analyst – Cybersecurity Executive Product Management](https://www.wobo.ai/job/sr-director-analyst-cybersecurity-executive-product-management-at-gartner-qis2s8rgk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$172K to \$203K/yr | Nov&nbsp;7 |
 | **Root Insurance** | [Staff Security Engineer](https://www.wobo.ai/job/staff-security-engineer-at-root-insurance-q2h43i3x0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$157K to \$196K/yr | Nov&nbsp;7 |
-| **Harvard University** | [Information Security Analyst](https://www.wobo.ai/job/information-security-analyst-at-harvard-university-q7etahc4f/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Boston, MA |  | Nov&nbsp;6 |
 
 [Back to sections](#sections)
 
@@ -1380,7 +1380,6 @@
 | **ABB** | [Senior Product Manager - Wire Management](https://www.wobo.ai/job/senior-product-manager-wire-management-at-abb-sckzr0knf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TN | \$143K to \$228K/yr | Nov&nbsp;8 |
 | **Phantom** | [UX Researcher](https://www.wobo.ai/job/ux-researcher-at-phantom-q2xyoarmp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$250K/yr | Nov&nbsp;6 |
 | **Numa** | [Product Manager](https://www.wobo.ai/job/product-manager-at-numa-q8bftsax9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$150K to \$220K/yr | Nov&nbsp;6 |
-| **Canals** | [Senior Product Designer](https://www.wobo.ai/job/senior-product-designer-at-canals-qapnjmrdi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY |  | Nov&nbsp;6 |
 
 [Back to sections](#sections)
 
