@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,384 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 6:51 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,394 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 7:51 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (578) · [AI and ML](#remote-ai-and-ml-jobs) (234) · [Data](#remote-data-jobs) (178) · [Security](#remote-security-jobs) (128) · [Product and design](#remote-product-and-design-jobs) (195) · [Hardware](#remote-hardware-jobs) (71) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (580) · [AI and ML](#remote-ai-and-ml-jobs) (240) · [Data](#remote-data-jobs) (179) · [Security](#remote-security-jobs) (129) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (69) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,7 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Revive Media** | [Senior C# Back-End Developer](https://www.wobo.ai/job/senior-c-back-end-developer-at-revive-media-sac8kyo2j/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$165K to \$180K/yr | Nov&nbsp;20 |
 | **Oracle** | [Principal Site Reliability Engineer - Oracle Health (US REMOTE)](https://www.wobo.ai/job/principal-site-reliability-engineer-oracle-health-us-remote-at-oracle-s89o7tt2p/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$85K to \$210K/yr | Nov&nbsp;20 |
 | ↳ | [Systems Engineer - Clinical Imaging, PACS Implementation](https://www.wobo.ai/job/systems-engineer-clinical-imaging-pacs-implementation-at-oracle-s89o10sli/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$60K to \$132K/yr | Nov&nbsp;20 |
 | **Raydar** | [Senior Software Engineer](https://www.wobo.ai/job/senior-software-engineer-at-raydar-s76j4ylac/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$275K/yr | Nov&nbsp;19 |
@@ -22,6 +23,7 @@
 | **BlackCloak** | [Senior Software Engineer](https://www.wobo.ai/job/senior-software-engineer-at-blackcloak-s776wxl76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Voyager Technologies, Inc.** | [Systems Engineer – Project Engineer VI](https://www.wobo.ai/job/systems-engineer-project-engineer-vi-at-voyager-technologies-inc-s6wv7y3tg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Folsom, CA | \$161K to \$279K/yr | Nov&nbsp;19 |
 | **Airbnb** | [Senior Android Engineer, App Experience & Frameworks](https://www.wobo.ai/job/senior-android-engineer-app-experience-frameworks-at-airbnb-s6zu0cbeg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$196K to \$227K/yr | Nov&nbsp;19 |
+| **OpenRouter** | [Multimodal, Developer Relations](https://www.wobo.ai/job/multimodal-developer-relations-at-openrouter-sa77frdnv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Elastic** | [Lead IT Systems Engineer](https://www.wobo.ai/job/lead-it-systems-engineer-at-elastic-s6vxsgq5a/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Pearson** | [Cloud Engineering Team Manager](https://www.wobo.ai/job/cloud-engineering-team-manager-at-pearson-s13psc3od/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$170K to \$200K/yr | Nov&nbsp;19 |
 | **Nant** | [Lead Clinical Software Engineer \| Remote \| AirStrip](https://www.wobo.ai/job/lead-clinical-software-engineer-remote-airstrip-at-nant-s12awu0w7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Antonio, TX | \$144K to \$186K/yr | Nov&nbsp;19 |
@@ -600,7 +602,12 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **CHS** | [AI Engineer, Specialist - Remote](https://www.wobo.ai/job/ai-engineer-specialist-remote-at-chs-s8oa8l2ik/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Franklin, NE |  | Nov&nbsp;20 |
 | ↳ | [AI Engineer - Remote](https://www.wobo.ai/job/ai-engineer-remote-at-chs-s8oa6qnhy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Franklin, NE |  | Nov&nbsp;20 |
+| **Hopper** | [Forward Deployed Engineer, AI Trust and Reliability](https://www.wobo.ai/job/forward-deployed-engineer-ai-trust-and-reliability-at-hopper-sa75dhpeo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
+| ↳ | [Forward Deployed Engineer, Applied ML and Data](https://www.wobo.ai/job/forward-deployed-engineer-applied-ml-and-data-at-hopper-sa75e2d3y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
+| ↳ | [Forward Deployed AI Engineer, Travel Intelligence](https://www.wobo.ai/job/forward-deployed-ai-engineer-travel-intelligence-at-hopper-sa75bp9h4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
+| **Homebound** | [Senior / Staff AI Engineer](https://www.wobo.ai/job/senior-staff-ai-engineer-at-homebound-sa6zauk08/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Santa Rosa, CA |  | Nov&nbsp;19 |
 | **AppOmni** | [Staff Software Engineer, AI Automation and Workflows](https://www.wobo.ai/job/staff-software-engineer-ai-automation-and-workflows-at-appomni-s6vxykvxu/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$300K/yr | Nov&nbsp;19 |
+| **Scribe** | [Senior AI Developer Experience Engineer](https://www.wobo.ai/job/senior-ai-developer-experience-engineer-at-scribe-sa9sirvsg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Airbnb** | [Senior AI Development Lead](https://www.wobo.ai/job/senior-ai-development-lead-at-airbnb-s6ztzq58p/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$157K to \$171K/yr | Nov&nbsp;19 |
 | **Clera** | [Principal AI Architect](https://www.wobo.ai/job/principal-ai-architect-at-clera-s7wyt4dce/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$270K to \$330K/yr | Nov&nbsp;19 |
 | **Evidence Action** | [Manager / Senior Manager, Incubation (Evidence), The AI Access Initiative](https://www.wobo.ai/job/manager-senior-manager-incubation-evidence-the-ai-access-initiative-at-evidence-action-s0w7sp0qh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$100K to \$135K/yr | Nov&nbsp;19 |
@@ -615,6 +622,7 @@
 | **OhioHealth** | [Associate Data and AI Engineer](https://www.wobo.ai/job/associate-data-and-ai-engineer-at-ohiohealth-s9q1zzmng/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | OH |  | Nov&nbsp;18 |
 | **Johnson & Johnson** | [Senior Manager, AI Security](https://www.wobo.ai/job/senior-manager-ai-security-at-johnson-johnson-s9q81ikay/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Raritan, NJ | \$127K to \$219K/yr | Nov&nbsp;18 |
 | **Genesys** | [AI Forward Deployed Engineer](https://www.wobo.ai/job/ai-forward-deployed-engineer-at-genesys-s84pjxj7t/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$135K to \$237K/yr | Nov&nbsp;18 |
+| **General Motors** | [Senior Artificial Intelligence Machine Learning Scientist](https://www.wobo.ai/job/senior-artificial-intelligence-machine-learning-scientist-at-general-motors-sa2mmwlvf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Warren, MI | \$145K to \$261K/yr | Nov&nbsp;18 |
 | **Fiserv** | [Senior Snowflake Data Platform & Artificial Intelligence (AI) Architect](https://www.wobo.ai/job/senior-snowflake-data-platform-artificial-intelligence-ai-architect-at-fiserv-s8j1i6npe/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | FL |  | Nov&nbsp;18 |
 | **Dentsu** | [AI Innovation Manager](https://www.wobo.ai/job/ai-innovation-manager-at-dentsu-s9pyobmf7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$113K to \$150K/yr | Nov&nbsp;18 |
 | **Centene** | [Principal AI Governance Scientist](https://www.wobo.ai/job/principal-ai-governance-scientist-at-centene-s8kdbe9jj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$135K to \$249K/yr | Nov&nbsp;18 |
@@ -730,7 +738,6 @@
 | **Raydar** | [AI Engineer](https://www.wobo.ai/job/ai-engineer-at-raydar-rc7e5o4im/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$350K/yr | Nov&nbsp;12 |
 | **Bask Health** | [Senior Machine Learning Engineer, Search & Personalization](https://www.wobo.ai/job/senior-machine-learning-engineer-search-personalization-at-bask-health-rb9jg5347/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;12 |
 | ↳ | [Senior Forward Deployed Engineer, AI & Automation](https://www.wobo.ai/job/senior-forward-deployed-engineer-ai-automation-at-bask-health-rb9j9kxtx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;12 |
-| **Regions** | [AI Identity Security Engineer (Sailpoint)](https://www.wobo.ai/job/ai-identity-security-engineer-sailpoint-at-regions-rexr2top3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Birmingham, AL | \$133K to \$167K/yr | Nov&nbsp;11 |
 | **CDW** | [AI Software Consulting Engineer](https://www.wobo.ai/job/ai-software-consulting-engineer-at-cdw-rg68u90bq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$78K to \$108K/yr | Nov&nbsp;11 |
 | **CareSource** | [AI Compliance Analyst II - Healthcare preferred](https://www.wobo.ai/job/ai-compliance-analyst-ii-healthcare-preferred-at-caresource-rctnt3vb2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$72K to \$116K/yr | Nov&nbsp;11 |
 | **Dayforce** | [Senior Forward Deployed AI Engineer Analytics](https://www.wobo.ai/job/senior-forward-deployed-ai-engineer-analytics-at-dayforce-r9w6errp3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;11 |
@@ -810,7 +817,8 @@
 | **GE Aerospace** | [Executive Leader, AI Workforce Capability](https://www.wobo.ai/job/executive-leader-ai-workforce-capability-at-ge-aerospace-r0550a2pi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Evendale, OH | \$200K to \$300K/yr | Nov&nbsp;9 |
 | ↳ | [Executive Leader, AI Work Design & Architecture](https://www.wobo.ai/job/executive-leader-ai-work-design-architecture-at-ge-aerospace-r054zp9p0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Evendale, OH | \$200K to \$300K/yr | Nov&nbsp;9 |
 | **FICO** | [Principal AI Engineer/ AI Applied Scientist](https://www.wobo.ai/job/principal-ai-engineer-ai-applied-scientist-at-fico-r7uz4zdzf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$172K to \$270K/yr | Nov&nbsp;9 |
-| **CVS Health** | [Lead Agentic AI Solutions Engineer](https://www.wobo.ai/job/lead-agentic-ai-solutions-engineer-at-cvs-health-r18jgn1ar/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$261K/yr | Nov&nbsp;9 |
+| **CVS Health** | [Senior Agentic AI Solutions Engineer](https://www.wobo.ai/job/senior-agentic-ai-solutions-engineer-at-cvs-health-r18l14yhj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$102K to \$204K/yr | Nov&nbsp;9 |
+| ↳ | [Lead Agentic AI Solutions Engineer](https://www.wobo.ai/job/lead-agentic-ai-solutions-engineer-at-cvs-health-r18jgn1ar/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$261K/yr | Nov&nbsp;9 |
 | **CSI** | [Director of AI SDLC](https://www.wobo.ai/job/director-of-ai-sdlc-at-csi-s4jprb2tn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;9 |
 | **Red Cell Partners** | [ML Engineer, Retrieval & Grounded Generation](https://www.wobo.ai/job/ml-engineer-retrieval-grounded-generation-at-red-cell-partners-qxteiwpv9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$135K to \$170K/yr | Nov&nbsp;9 |
 | **Life360** | [Senior Data Engineer, Ads Data (AI Native)](https://www.wobo.ai/job/senior-data-engineer-ads-data-ai-native-at-life360-qxvgcsq02/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$129K to \$192K/yr | Nov&nbsp;9 |
@@ -866,6 +874,7 @@
 | **EnergyHub** | [Senior Data Engineer, C&I](https://www.wobo.ai/job/senior-data-engineer-ci-at-energyhub-rxi836xly/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$170K/yr | Nov&nbsp;18 |
 | **NBCUniversal** | [Staff Data Engineer, SAP Analytics](https://www.wobo.ai/job/staff-data-engineer-sap-analytics-at-nbcuniversal-s17jto9hq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | NY | \$130K to \$170K/yr | Nov&nbsp;18 |
 | **Reailize** | [Senior Data Engineer - Contract](https://www.wobo.ai/job/senior-data-engineer-contract-at-reailize-rw2xhiytp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
+| **Multiplier** | [Data Science & Engineering Fellow](https://www.wobo.ai/job/data-science-engineering-fellow-at-multiplier-rvlvdh47e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA | \$78K to \$88K/yr | Nov&nbsp;18 |
 | **Claritas Rx** | [Data Engineer](https://www.wobo.ai/job/data-engineer-at-claritas-rx-rvl61h2qp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$120K to \$140K/yr | Nov&nbsp;18 |
 | **RVO Health** | [People Data Analyst](https://www.wobo.ai/job/people-data-analyst-at-rvo-health-rxe97sbfk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$75K to \$95K/yr | Nov&nbsp;17 |
 | **Terac** | [Data Analytics Experts: Benchmark Evaluation Project](https://www.wobo.ai/job/data-analytics-experts-benchmark-evaluation-project-at-terac-rve2dsv12/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$100/hr | Nov&nbsp;17 |
@@ -1026,6 +1035,8 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **GDIT** | [Senior Principal Cyber Solutions Engineer](https://www.wobo.ai/job/senior-principal-cyber-solutions-engineer-at-gdit-s9wu5vnpj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Any Location | \$170K to \$230K/yr | Nov&nbsp;19 |
 | ↳ | [Director, Cyber Engineering, Prototyping & Demonstrations](https://www.wobo.ai/job/director-cyber-engineering-prototyping-demonstrations-at-gdit-s9wtycu71/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Any Location | \$221K to \$299K/yr | Nov&nbsp;19 |
+| **Juniper Square** | [Senior Director, Security Engineering](https://www.wobo.ai/job/senior-director-security-engineering-at-juniper-square-sa6uaxhqg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Americas | \$260K to \$325K/yr | Nov&nbsp;19 |
+| ↳ | [Staff Security Operations Engineer](https://www.wobo.ai/job/staff-security-operations-engineer-at-juniper-square-sa6uc2tlf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Americas | \$140K to \$185K/yr | Nov&nbsp;19 |
 | **Packetlabs** | [Penetration Tester - Cloud Security (Texas/Florida)](https://www.wobo.ai/job/penetration-tester-cloud-security-texasflorida-at-packetlabs-s1hto6seb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TX +1 |  | Nov&nbsp;19 |
 | **LevelBlue** | [Sr. Cyber Consultant, Advisory](https://www.wobo.ai/job/sr-cyber-consultant-advisory-at-levelblue-s11ijtesr/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **The Hanover Insurance Group** | [Senior IT Security Engineer (REMOTE or HYBRID TO MA, CT)](https://www.wobo.ai/job/senior-it-security-engineer-remote-or-hybrid-to-ma-ct-at-the-hanover-insurance-group-s1161la4t/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Worcester, MA |  | Nov&nbsp;19 |
@@ -1054,7 +1065,6 @@
 | **TRM Labs** | [Cloud Security Engineer](https://www.wobo.ai/job/cloud-security-engineer-at-trm-labs-s5z7lzgru/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;17 |
 | **Varonis** | [Incident Response Security Analyst](https://www.wobo.ai/job/incident-response-security-analyst-at-varonis-rshcl02u7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;17 |
 | **SignalFire** | [Security Engineer (Senior/Staff) - VC Backed Startups](https://www.wobo.ai/job/security-engineer-seniorstaff-vc-backed-startups-at-signalfire-rseuo07f2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;17 |
-| **SAIC** | [Tier 1 SOC Analyst](https://www.wobo.ai/job/tier-1-soc-analyst-at-saic-rs2bxr0sj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TN |  | Nov&nbsp;17 |
 | **Netrio** | [Cybersecurity Consultant](https://www.wobo.ai/job/cybersecurity-consultant-at-netrio-rrmcoaqmh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;17 |
 | **Maven Clinic** | [Senior Security Engineer, Detection & Response](https://www.wobo.ai/job/senior-security-engineer-detection-response-at-maven-clinic-rtg0bhqb9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$196K to \$230K/yr | Nov&nbsp;16 |
 | **Trellix** | [Cyber Threat Analyst (TS/SCI Clearance Required)](https://www.wobo.ai/job/cyber-threat-analyst-tssci-clearance-required-at-trellix-rynmfxnmb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) |  | Nov&nbsp;16 |
@@ -1159,7 +1169,9 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
+| **Friends From The City** | [Senior Product Manager](https://www.wobo.ai/job/senior-product-manager-at-friends-from-the-city-sac9jjhga/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Washington, DC | \$158K/yr | Nov&nbsp;20 |
 | **Stripe** | [Staff Product Manager, Infrastructure](https://www.wobo.ai/job/staff-product-manager-infrastructure-at-stripe-s6v8vyzsz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | NY |  | Nov&nbsp;19 |
+| **Tapcheck** | [Lead Product Manager, Engagement](https://www.wobo.ai/job/lead-product-manager-engagement-at-tapcheck-sa7dctq28/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Plano, TX |  | Nov&nbsp;19 |
 | **Project Management Institute** | [Product Owner, Community Tech Platforms III](https://www.wobo.ai/job/product-owner-community-tech-platforms-iii-at-project-management-institute-s0z900gd2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Skillable** | [Senior Technical Product Manager, Fabrics](https://www.wobo.ai/job/senior-technical-product-manager-fabrics-at-skillable-rzpshsfml/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **UNDP** | [Digital Product Manager (Home Based) \[Open to Tier 0, 1 and 2\]](https://www.wobo.ai/job/digital-product-manager-home-based-open-to-tier-0-1-and-2-at-undp-rzo2ugq5v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | New York City, NY |  | Nov&nbsp;19 |
@@ -1167,9 +1179,11 @@
 | **Humana** | [Lead Digital Product Manager](https://www.wobo.ai/job/lead-digital-product-manager-at-humana-s8k9xoz1v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$126K to \$174K/yr | Nov&nbsp;18 |
 | **Greystar** | [Director, Product Management](https://www.wobo.ai/job/director-product-management-at-greystar-s9qf8qag0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$160K to \$180K/yr | Nov&nbsp;18 |
 | **CSI** | [Technical Product Owner, Data Products](https://www.wobo.ai/job/technical-product-owner-data-products-at-csi-s4jpfn7rc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
+| **C.H. Robinson** | [Senior Enterprise Product Manager, Planning](https://www.wobo.ai/job/senior-enterprise-product-manager-planning-at-ch-robinson-sa78d1aho/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Eden Prairie, MN | \$132K to \$223K/yr | Nov&nbsp;18 |
 | **Assurant** | [Associate Technical Product Owner](https://www.wobo.ai/job/associate-technical-product-owner-at-assurant-s7x86mzcb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$75K to \$125K/yr | Nov&nbsp;18 |
 | **Allstate** | [Digital Product Manager - API Management Platforms (Apigee & IBM DataPower)](https://www.wobo.ai/job/digital-product-manager-api-management-platforms-apigee-ibm-datapower-at-allstate-s85v3ptrc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$120K to \$194K/yr | Nov&nbsp;18 |
 | ↳ | [Product Management Lead Consultant (Insurance)](https://www.wobo.ai/job/product-management-lead-consultant-insurance-at-allstate-s85v2427e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$85K to \$145K/yr | Nov&nbsp;18 |
+| **Alignment Health** | [Director Technical Product Management, Compliance](https://www.wobo.ai/job/director-technical-product-management-compliance-at-alignment-health-sa6scpnf3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$172K to \$259K/yr | Nov&nbsp;18 |
 | **SandboxAQ** | [Principal Product Manager, Chemical Simulation](https://www.wobo.ai/job/principal-product-manager-chemical-simulation-at-sandboxaq-s0j8i81ox/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
 | **Local Infusion** | [Senior Product Manager](https://www.wobo.ai/job/senior-product-manager-at-local-infusion-s0izsrj60/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Nashville, TN |  | Nov&nbsp;18 |
 | **Oscar Health** | [Staff Product Manager, Virtual Care](https://www.wobo.ai/job/staff-product-manager-virtual-care-at-oscar-health-s6wi0tsos/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Boston, MA +1 | \$181K to \$237K/yr | Nov&nbsp;18 |
@@ -1183,7 +1197,6 @@
 | **Harvey** | [GTM Technology Product Owner - Quote to Cash](https://www.wobo.ai/job/gtm-technology-product-owner-quote-to-cash-at-harvey-s0jpba8dw/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$164K to \$226K/yr | Nov&nbsp;18 |
 | **Deepgram** | [Senior Product Manager, Enterprise](https://www.wobo.ai/job/senior-product-manager-enterprise-at-deepgram-s0j3moovb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
 | **GoDaddy** | [Director UX Research](https://www.wobo.ai/job/director-ux-research-at-godaddy-s1hyzajfl/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$156K to \$304K/yr | Nov&nbsp;18 |
-| **Ford** | [UX Copy & Content Strategist](https://www.wobo.ai/job/ux-copy-content-strategist-at-ford-rvik7q1jq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$100K to \$167K/yr | Nov&nbsp;18 |
 | **Wpromote** | [Senior Manager, UX/ UI & Experience Strategy](https://www.wobo.ai/job/senior-manager-ux-ui-experience-strategy-at-wpromote-rwe7z4y0z/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$102K to \$123K/yr | Nov&nbsp;17 |
 | **TNS** | [Associate Product Manager – Financial Markets](https://www.wobo.ai/job/associate-product-manager-financial-markets-at-tns-rz5p7086n/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$60K to \$80K/yr | Nov&nbsp;17 |
 | **Thrivent** | [Staff Product Designer, Acquisition](https://www.wobo.ai/job/staff-product-designer-acquisition-at-thrivent-ry239e7d4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$136K to \$184K/yr | Nov&nbsp;17 |
@@ -1333,7 +1346,6 @@
 | **CVS Health** | [Sr Manager, Product Management and Development - Medicare Advantage](https://www.wobo.ai/job/sr-manager-product-management-and-development-medicare-advantage-at-cvs-health-r18npocse/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$75K to \$199K/yr | Nov&nbsp;9 |
 | **Cencora** | [Lead, Product Management](https://www.wobo.ai/job/lead-product-management-at-cencora-r7w48qp4b/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$95K to \$148K/yr | Nov&nbsp;9 |
 | **C.H. Robinson** | [Engineering Product Manager II](https://www.wobo.ai/job/engineering-product-manager-ii-at-ch-robinson-r9r71hboj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$66K to \$140K/yr | Nov&nbsp;9 |
-| **Avantor** | [Director, Digital Product Management & Chief of Staff](https://www.wobo.ai/job/director-digital-product-management-chief-of-staff-at-avantor-r0ss1lh4k/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$154K to \$259K/yr | Nov&nbsp;9 |
 | **Experian** | [Vice President, Product Management](https://www.wobo.ai/job/vice-president-product-management-at-experian-qxcv8uozt/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;9 |
 | **WelbeHealth** | [Technical Product Manager](https://www.wobo.ai/job/technical-product-manager-at-welbehealth-qxqzqf0av/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | CA | \$132K to \$174K/yr | Nov&nbsp;9 |
 | **Delinea** | [Senior Product Manager - Non-Human Identity Security](https://www.wobo.ai/job/senior-product-manager-non-human-identity-security-at-delinea-qstjkv4hn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Redwood City, CA |  | Nov&nbsp;9 |
@@ -1364,7 +1376,6 @@
 | **Arcadis** | [Senior Mechanical Engineer](https://www.wobo.ai/job/senior-mechanical-engineer-at-arcadis-s86guywmk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Washington, DC | \$110K to \$175K/yr | Nov&nbsp;20 |
 | **Lyte AI** | [Senior Photonics Engineer](https://www.wobo.ai/job/senior-photonics-engineer-at-lyte-ai-s0ilekc03/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | CA |  | Nov&nbsp;19 |
 | **Halker Consulting** | [Electrical CAD Designer](https://www.wobo.ai/job/electrical-cad-designer-at-halker-consulting-rzwdrem77/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
-| **SAIC** | [Mechanical Engineer Sr](https://www.wobo.ai/job/mechanical-engineer-sr-at-saic-rzrljo1ht/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | TX |  | Nov&nbsp;19 |
 | **Northrop Grumman** | [Sentinel Sr. Staff SMT Supplier Site Lead (Electronics) 20610](https://www.wobo.ai/job/sentinel-sr-staff-smt-supplier-site-lead-electronics-20610-at-northrop-grumman-s9vppi99v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$180K to \$270K/yr | Nov&nbsp;18 |
 | **GDIT** | [RF Engineer Sr Principal](https://www.wobo.ai/job/rf-engineer-sr-principal-at-gdit-s9wv1p1n4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$147K to \$199K/yr | Nov&nbsp;18 |
 | **Keystone Experts + Engineers** | [Mechanical / Electrical Engineering](https://www.wobo.ai/job/mechanicalelectrical-engineering-at-keystone-experts-engineers-rxvvkinld/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New Orleans, LA |  | Nov&nbsp;18 |
@@ -1431,7 +1442,6 @@
 | **GE Aerospace** | [CMC Mechanical Analysis Lead Engineer](https://www.wobo.ai/job/cmc-mechanical-analysis-lead-engineer-at-ge-aerospace-qr7guh8lp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Evendale, OH | \$95K to \$159K/yr | Nov&nbsp;8 |
 | **CCCx - CEQEL Critical Commissioning** | [Senior Mechanical Commissioning Engineer / Specialist](https://www.wobo.ai/job/senior-mechanical-commissioning-engineerspecialist-at-cccx-ceqel-critical-commissioning-q2prf9bzt/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;7 |
 | ↳ | [Senior Electrical Commissioning Engineer / Specialist](https://www.wobo.ai/job/senior-electrical-commissioning-engineerspecialist-at-cccx-ceqel-critical-commissioning-q2prec7ln/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;7 |
-| **Motive** | [Mechanical Engineer](https://www.wobo.ai/job/mechanical-engineer-at-motive-q830pg4en/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$140K to \$190K/yr | Nov&nbsp;6 |
 
 [Back to sections](#sections)
 
