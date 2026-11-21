@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,431 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,429 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (602) · [AI and ML](#remote-ai-and-ml-jobs) (239) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (135) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (602) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (135) · [Product and design](#remote-product-and-design-jobs) (199) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -647,7 +647,6 @@
 | **Dave** | [Staff AI Acceleration Engineer](https://www.wobo.ai/job/staff-ai-acceleration-engineer-at-dave-rzevbbvir/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
 | **RTX** | [Full Stack AI/ML Developer (Remote)](https://www.wobo.ai/job/full-stack-aiml-developer-remote-at-rtx-s7ucb1phi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$69K to \$131K/yr | Nov&nbsp;18 |
 | **Resolve Tech Solutions** | [Ai Engineer](https://www.wobo.ai/job/ai-engineer-at-resolve-tech-solutions-s9wpej29d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
-| **OhioHealth** | [Associate Data and AI Engineer](https://www.wobo.ai/job/associate-data-and-ai-engineer-at-ohiohealth-s9q1zzmng/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | OH |  | Nov&nbsp;18 |
 | **Johnson & Johnson** | [Senior Manager, AI Security](https://www.wobo.ai/job/senior-manager-ai-security-at-johnson-johnson-s9q81ikay/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Raritan, NJ | \$127K to \$219K/yr | Nov&nbsp;18 |
 | **Genesys** | [AI Forward Deployed Engineer](https://www.wobo.ai/job/ai-forward-deployed-engineer-at-genesys-s84pjxj7t/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$135K to \$237K/yr | Nov&nbsp;18 |
 | **General Motors** | [Senior Artificial Intelligence Machine Learning Scientist](https://www.wobo.ai/job/senior-artificial-intelligence-machine-learning-scientist-at-general-motors-sa2mmwlvf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Warren, MI | \$145K to \$261K/yr | Nov&nbsp;18 |
@@ -1393,7 +1392,6 @@
 | **DISA Global Solutions** | [Senior Product Owner](https://www.wobo.ai/job/senior-product-owner-at-disa-global-solutions-r0668513e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$85K to \$105K/yr | Nov&nbsp;8 |
 | **CVS Health** | [Senior Manager, Digital UX Design](https://www.wobo.ai/job/senior-manager-digital-ux-design-at-cvs-health-qrzu3hd63/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$261K/yr | Nov&nbsp;8 |
 | **ABB** | [Senior Product Manager - Wire Management](https://www.wobo.ai/job/senior-product-manager-wire-management-at-abb-sckzr0knf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TN | \$143K to \$228K/yr | Nov&nbsp;8 |
-| **Phantom** | [UX Researcher](https://www.wobo.ai/job/ux-researcher-at-phantom-q2xyoarmp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$250K/yr | Nov&nbsp;6 |
 
 [Back to sections](#sections)
 
