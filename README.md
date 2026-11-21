@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,424 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,425 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (599) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (134) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (600) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (133) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (79) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -45,6 +45,7 @@
 | **Thyme Care** | [Senior Platform Engineer](https://www.wobo.ai/job/senior-platform-engineer-at-thyme-care-sbvrg5oih/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$170K to \$200K/yr | Nov&nbsp;19 |
 | **OpenRouter** | [Multimodal, Developer Relations](https://www.wobo.ai/job/multimodal-developer-relations-at-openrouter-sa77frdnv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Outreach** | [Senior Forward Deployed Engineer, Managed Services](https://www.wobo.ai/job/senior-forward-deployed-engineer-managed-services-at-outreach-scgub3cfs/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Seattle, WA |  | Nov&nbsp;19 |
+| **Eurofins** | [Global Software Implementation Manager](https://www.wobo.ai/job/global-software-implementation-manager-at-eurofins-s66kcb3gb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Lancaster, PA |  | Nov&nbsp;19 |
 | **Sopra Steria** | [Embedded Software Verification Engineer (Entry Level)](https://www.wobo.ai/job/embedded-software-verification-engineer-entry-level-at-sopra-steria-sci7yu8vk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Platteville, WI |  | Nov&nbsp;19 |
 | ↳ | [Embedded Software Verification Engineer (Mid level)](https://www.wobo.ai/job/embedded-software-verification-engineer-mid-level-at-sopra-steria-sci831uh1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Platteville, WI |  | Nov&nbsp;19 |
 | ↳ | [Embedded Software Development Engineer (Senior Level)](https://www.wobo.ai/job/embedded-software-development-engineer-senior-level-at-sopra-steria-sci87vv3q/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Platteville, WI |  | Nov&nbsp;19 |
@@ -1160,7 +1161,6 @@
 | **Walrus** | [Senior Information Security Engineer](https://www.wobo.ai/job/senior-information-security-engineer-at-walrus-r1sy8czqp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Flexport** | [Staff Security Engineer, Product Security](https://www.wobo.ai/job/staff-security-engineer-product-security-at-flexport-r6p1fx3zn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$148K to \$271K/yr | Nov&nbsp;10 |
 | ↳ | [Security Engineer, Product Security](https://www.wobo.ai/job/security-engineer-product-security-at-flexport-r6p1cz3z3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$131K to \$202K/yr | Nov&nbsp;10 |
-| **Abbott** | [Sr. Cybersecurity Specialist](https://www.wobo.ai/job/sr-cybersecurity-specialist-at-abbott-rcryhl50e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$99K to \$199K/yr | Nov&nbsp;10 |
 | **AIOS** | [Senior Security Engineer at AIOS — Remote, \$150k–\$250k/yr inc equity](https://www.wobo.ai/job/senior-security-engineer-at-aios-remote-150k250kyr-inc-equity-at-aios-r0sovl3bz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$150K to \$250K/yr | Nov&nbsp;10 |
 | **Zip Co Limited** | [Senior Security Engineer I](https://www.wobo.ai/job/senior-security-engineer-i-at-zip-co-limited-r6qq9evgb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$122K to \$150K/yr | Nov&nbsp;10 |
 | **Varonis** | [Security Engineer](https://www.wobo.ai/job/security-engineer-at-varonis-qsuymc88k/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
@@ -1403,6 +1403,7 @@
 | ↳ | [Embedded Systems Expert (DO-178C)](https://www.wobo.ai/job/embedded-systems-expert-do-178c-at-sopra-steria-sci85yeti/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Platteville, WI |  | Nov&nbsp;19 |
 | **Mantis Innovation** | [Senior Design Engineer - Mechanical](https://www.wobo.ai/job/senior-design-engineer-mechanical-at-mantis-innovation-sahw8uki5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Morristown, VT +1 |  | Nov&nbsp;19 |
 | **GrayMatter Robotics** | [Robotics Applications Engineer: Activation and Support - Aerospace & Defense](https://www.wobo.ai/job/robotics-applications-engineer-activation-and-support-aerospace-defense-at-graymatter-sbbzl7b7d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
+| **Veolia** | [Microelectronics Ultrapure Water (UPW) Senior Process Engineer](https://www.wobo.ai/job/microelectronics-ultrapure-water-upw-senior-process-engineer-at-veolia-s66to4s2x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Portland, OR +4 | \$116K to \$163K/yr | Nov&nbsp;19 |
 | **Lyte AI** | [Senior Photonics Engineer](https://www.wobo.ai/job/senior-photonics-engineer-at-lyte-ai-s0ilekc03/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | CA |  | Nov&nbsp;19 |
 | **Halker Consulting** | [Electrical CAD Designer](https://www.wobo.ai/job/electrical-cad-designer-at-halker-consulting-rzwdrem77/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **The Home Depot** | [Controls Engineer](https://www.wobo.ai/job/controls-engineer-at-the-home-depot-sbx2lw2dy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$80K to \$150K/yr | Nov&nbsp;18 |
