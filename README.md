@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,426 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,424 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (600) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (135) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (599) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (134) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -90,7 +90,6 @@
 | **GDIT** | [Back End Developer](https://www.wobo.ai/job/back-end-developer-at-gdit-s9wv5ov5x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | USA VA Home | from \$94K/yr | Nov&nbsp;18 |
 | ↳ | [Cloud Developer Principal](https://www.wobo.ai/job/cloud-developer-principal-at-gdit-s9wv0o2ov/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Falls Church, VA | \$151K to \$205K/yr | Nov&nbsp;18 |
 | ↳ | [NCIS Cloud Engineer \| Active Secret clearance](https://www.wobo.ai/job/ncis-cloud-engineer-active-secret-clearance-at-gdit-s9wto7ufc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Any Location | \$162K to \$164K/yr | Nov&nbsp;18 |
-| **CVS Health** | [Senior Full Stack Engineer](https://www.wobo.ai/job/senior-full-stack-engineer-at-cvs-health-saorzdtk0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TX | \$93K to \$204K/yr | Nov&nbsp;18 |
 | **CSI** | [Cobol Software Engineer](https://www.wobo.ai/job/cobol-software-engineer-at-csi-s4jpe9qh3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Paducah, KY |  | Nov&nbsp;18 |
 | **Cisco** | [Solutions Engineer - Splunk (Remote)](https://www.wobo.ai/job/solutions-engineer-splunk-remote-at-cisco-s7ywwl693/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | McLean, VA | \$247K to \$327K/yr | Nov&nbsp;18 |
 | ↳ | [Leader, Solutions Engineer, Splunk FSI - Remote](https://www.wobo.ai/job/leader-solutions-engineer-splunk-fsi-remote-at-cisco-s7ywdm4qj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$266K to \$343K/yr | Nov&nbsp;18 |
@@ -1161,8 +1160,7 @@
 | **Walrus** | [Senior Information Security Engineer](https://www.wobo.ai/job/senior-information-security-engineer-at-walrus-r1sy8czqp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Flexport** | [Staff Security Engineer, Product Security](https://www.wobo.ai/job/staff-security-engineer-product-security-at-flexport-r6p1fx3zn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$148K to \$271K/yr | Nov&nbsp;10 |
 | ↳ | [Security Engineer, Product Security](https://www.wobo.ai/job/security-engineer-product-security-at-flexport-r6p1cz3z3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$131K to \$202K/yr | Nov&nbsp;10 |
-| **Abbott** | [Senior Cybersecurity Specialist](https://www.wobo.ai/job/senior-cybersecurity-specialist-at-abbott-rcryym58c/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$99K to \$199K/yr | Nov&nbsp;10 |
-| ↳ | [Sr. Cybersecurity Specialist](https://www.wobo.ai/job/sr-cybersecurity-specialist-at-abbott-rcryhl50e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$99K to \$199K/yr | Nov&nbsp;10 |
+| **Abbott** | [Sr. Cybersecurity Specialist](https://www.wobo.ai/job/sr-cybersecurity-specialist-at-abbott-rcryhl50e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$99K to \$199K/yr | Nov&nbsp;10 |
 | **AIOS** | [Senior Security Engineer at AIOS — Remote, \$150k–\$250k/yr inc equity](https://www.wobo.ai/job/senior-security-engineer-at-aios-remote-150k250kyr-inc-equity-at-aios-r0sovl3bz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$150K to \$250K/yr | Nov&nbsp;10 |
 | **Zip Co Limited** | [Senior Security Engineer I](https://www.wobo.ai/job/senior-security-engineer-i-at-zip-co-limited-r6qq9evgb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$122K to \$150K/yr | Nov&nbsp;10 |
 | **Varonis** | [Security Engineer](https://www.wobo.ai/job/security-engineer-at-varonis-qsuymc88k/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
