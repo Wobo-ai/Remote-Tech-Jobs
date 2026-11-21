@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,429 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,426 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 20, 2026, 2:13 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (602) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (135) · [Product and design](#remote-product-and-design-jobs) (199) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (600) · [AI and ML](#remote-ai-and-ml-jobs) (238) · [Data](#remote-data-jobs) (177) · [Security](#remote-security-jobs) (135) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (78) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -491,8 +491,7 @@
 | ↳ | [Software Engineer II- ECM Specialization](https://www.wobo.ai/job/software-engineer-ii-ecm-specialization-at-emergent-holdings-r2gg5w6nf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Lansing, MI | \$57K to \$115K/yr | Nov&nbsp;11 |
 | **Cyncly** | [.Net Developer](https://www.wobo.ai/job/net-developer-at-cyncly-r2fgrhxio/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Solon, OH | \$75K to \$93K/yr | Nov&nbsp;11 |
 | **Verisk** | [Senior Manager Software Engineering](https://www.wobo.ai/job/senior-manager-software-engineering-at-verisk-r2dkemqea/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | College Station, TX |  | Nov&nbsp;11 |
-| **Hearst Autos** | [Software Engineer](https://www.wobo.ai/job/software-engineer-at-hearst-autos-r2cxiqp7c/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$116K to \$125K/yr | Nov&nbsp;11 |
-| ↳ | [Senior DevOps Engineer II](https://www.wobo.ai/job/senior-devops-engineer-ii-at-hearst-autos-r2cxeb7z6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$133K to \$161K/yr | Nov&nbsp;11 |
+| **Hearst Autos** | [Senior DevOps Engineer II](https://www.wobo.ai/job/senior-devops-engineer-ii-at-hearst-autos-r2cxeb7z6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$133K to \$161K/yr | Nov&nbsp;11 |
 | **AMMEGA** | [Belting Application Engineer](https://www.wobo.ai/job/belting-application-engineer-at-ammega-r2b4712yq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Reading, PA | \$70K to \$75K/yr | Nov&nbsp;11 |
 | **SpangleAI** | [Senior Fullstack Engineer](https://www.wobo.ai/job/senior-fullstack-engineer-at-spangleai-r28ft66vq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | CA |  | Nov&nbsp;11 |
 | **EXL** | [Senior Developer- Python Full Stack](https://www.wobo.ai/job/senior-developer-python-full-stack-at-exl-r1ntvf6r6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;11 |
@@ -614,7 +613,6 @@
 | **Quavo** | [Software Quality Engineer](https://www.wobo.ai/job/software-quality-engineer-at-quavo-q2gj9l79h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;7 |
 | ↳ | [Site Reliability Engineering Lead](https://www.wobo.ai/job/site-reliability-engineering-lead-at-quavo-q2gj81gmo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;7 |
 | **Qu Pos, Inc** | [DevOps Engineer 1](https://www.wobo.ai/job/devops-engineer-1-at-qu-pos-inc-q2gaeeetz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;7 |
-| **Halcyon** | [Senior Backend Cloud Engineer](https://www.wobo.ai/job/senior-backend-cloud-engineer-at-halcyon-q7zmkgbf9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$120K to \$170K/yr | Nov&nbsp;6 |
 
 [Back to sections](#sections)
 
@@ -1215,8 +1213,7 @@
 | **CSI** | [Technical Product Owner, Data Products](https://www.wobo.ai/job/technical-product-owner-data-products-at-csi-s4jpfn7rc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
 | **C.H. Robinson** | [Senior Enterprise Product Manager, Planning](https://www.wobo.ai/job/senior-enterprise-product-manager-planning-at-ch-robinson-sa78d1aho/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Eden Prairie, MN | \$132K to \$223K/yr | Nov&nbsp;18 |
 | **Assurant** | [Associate Technical Product Owner](https://www.wobo.ai/job/associate-technical-product-owner-at-assurant-s7x86mzcb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$75K to \$125K/yr | Nov&nbsp;18 |
-| **Allstate** | [Digital Product Manager - API Management Platforms (Apigee & IBM DataPower)](https://www.wobo.ai/job/digital-product-manager-api-management-platforms-apigee-ibm-datapower-at-allstate-s85v3ptrc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$120K to \$194K/yr | Nov&nbsp;18 |
-| ↳ | [Product Management Lead Consultant (Insurance)](https://www.wobo.ai/job/product-management-lead-consultant-insurance-at-allstate-s85v2427e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$85K to \$145K/yr | Nov&nbsp;18 |
+| **Allstate** | [Product Management Lead Consultant (Insurance)](https://www.wobo.ai/job/product-management-lead-consultant-insurance-at-allstate-s85v2427e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$85K to \$145K/yr | Nov&nbsp;18 |
 | **Alignment Health** | [Director Technical Product Management, Compliance](https://www.wobo.ai/job/director-technical-product-management-compliance-at-alignment-health-sa6scpnf3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$172K to \$259K/yr | Nov&nbsp;18 |
 | **SandboxAQ** | [Principal Product Manager, Chemical Simulation](https://www.wobo.ai/job/principal-product-manager-chemical-simulation-at-sandboxaq-s0j8i81ox/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;18 |
 | **Local Infusion** | [Senior Product Manager](https://www.wobo.ai/job/senior-product-manager-at-local-infusion-s0izsrj60/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Nashville, TN |  | Nov&nbsp;18 |
