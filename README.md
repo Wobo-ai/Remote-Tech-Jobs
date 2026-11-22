@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 12:51 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 1:42 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (636) · [AI and ML](#remote-ai-and-ml-jobs) (236) · [Data](#remote-data-jobs) (185) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (228) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (638) · [AI and ML](#remote-ai-and-ml-jobs) (235) · [Data](#remote-data-jobs) (185) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -27,6 +27,7 @@
 | **TeamSnap** | [Senior Backend Engineer](https://www.wobo.ai/job/senior-backend-engineer-at-teamsnap-sg9nqjk4m/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | from \$150K/yr | Nov&nbsp;20 |
 | **SnapLogic** | [Senior Solutions Engineer](https://www.wobo.ai/job/senior-solutions-engineer-at-snaplogic-scyj06eaj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;20 |
 | **GDIT** | [Software Developer Principal](https://www.wobo.ai/job/software-developer-principal-at-gdit-sexsyg062/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$122K to \$166K/yr | Nov&nbsp;20 |
+| **F5** | [Senior Solutions Engineer - Major Accounts](https://www.wobo.ai/job/senior-solutions-engineer-major-accounts-at-f5-sj8ilmucy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | MD | \$204K to \$306K/yr | Nov&nbsp;20 |
 | **Cisco** | [Network Systems Engineer](https://www.wobo.ai/job/network-systems-engineer-at-cisco-selw492r5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Rancho Cordova, CA | \$117K to \$148K/yr | Nov&nbsp;20 |
 | **Megaport** | [Senior Software Enigneer](https://www.wobo.ai/job/senior-software-enigneer-at-megaport-sh64xk6g0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;20 |
 | **Elastic** | [Principal Software Engineer - Search Infra - Elasticsearch](https://www.wobo.ai/job/principal-software-engineer-search-infra-elasticsearch-at-elastic-scznu1zrj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$160K to \$253K/yr | Nov&nbsp;20 |
@@ -474,6 +475,7 @@
 | **WEX** | [Software Development Engineer 3](https://www.wobo.ai/job/software-development-engineer-3-at-wex-rg1yv3amu/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$122K to \$146K/yr | Nov&nbsp;11 |
 | **NVIDIA** | [Senior Software Engineer, Nix Packaging and Release Automation](https://www.wobo.ai/job/senior-software-engineer-nix-packaging-and-release-automation-at-nvidia-rerfff7pg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | CA | \$224K to \$357K/yr | Nov&nbsp;11 |
 | **Nextpower** | [Application Engineer - Solar Inverter and PCS](https://www.wobo.ai/job/application-engineer-solar-inverter-and-pcs-at-nextpower-s3npjmoib/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Mesa, AZ |  | Nov&nbsp;11 |
+| **HCSC** | [Senior Developer-FACETS](https://www.wobo.ai/job/senior-developer-facets-at-hcsc-s39e8hmk2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Richardson, TX | \$93K to \$168K/yr | Nov&nbsp;11 |
 | **General Motors** | [Senior Software Engineer - AV Data & Analysis Tools](https://www.wobo.ai/job/senior-software-engineer-av-data-analysis-tools-at-general-motors-rda8sjaww/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Sunnyvale, CA | \$145K to \$261K/yr | Nov&nbsp;11 |
 | **GDIT** | [BMC Remedy/Helix Developer](https://www.wobo.ai/job/bmc-remedyhelix-developer-at-gdit-rf1sxij3o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Any Location | \$128K to \$173K/yr | Nov&nbsp;11 |
 | **F5** | [Senior Solutions Engineer, US Federal – DoD](https://www.wobo.ai/job/senior-solutions-engineer-us-federal-dod-at-f5-rg1vqo5pb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Washington, DC | \$163K to \$245K/yr | Nov&nbsp;11 |
@@ -891,7 +893,6 @@
 | **Allstate** | [Lead Consultant- Machine Learning Platform](https://www.wobo.ai/job/lead-consultant-machine-learning-platform-at-allstate-r7xjjqmzn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | IL | \$110K to \$181K/yr | Nov&nbsp;10 |
 | **Buzz Solutions** | [Solutions Engineer (AI/ML) - South East US Region](https://www.wobo.ai/job/solutions-engineer-aiml-south-east-us-region-at-buzz-solutions-r6nutzk35/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Freshpaint** | [Product Manager, Data & AI](https://www.wobo.ai/job/product-manager-data-ai-at-freshpaint-r9nzm4xt3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
-| **Life360** | [Principal Agentic Engineer, AI Ecosystem](https://www.wobo.ai/job/principal-agentic-engineer-ai-ecosystem-at-life360-r6rnsi52h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$247K to \$363K/yr | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
@@ -1463,7 +1464,6 @@
 | **Dragos** | [Senior Technical Product Manager, Collection Management](https://www.wobo.ai/job/senior-technical-product-manager-collection-management-at-dragos-s4ctkwk9r/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$180K/yr | Nov&nbsp;10 |
 | **Proof** | [Principal Product Manager, Fraud and Risk](https://www.wobo.ai/job/principal-product-manager-fraud-and-risk-at-proof-r72cfgiaq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **DoorDash** | [Staff Product Manager, People Product (HR Partner Products)](https://www.wobo.ai/job/staff-product-manager-people-product-hr-partner-products-at-doordash-r6r6illxe/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$194K to \$285K/yr | Nov&nbsp;10 |
-| **Change.org** | [Sr. Product Manager, Internal Tools & Analysis](https://www.wobo.ai/job/sr-product-manager-internal-tools-analysis-at-changeorg-repfvizvi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$153K to \$180K/yr | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
