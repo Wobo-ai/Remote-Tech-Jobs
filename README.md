@@ -157,6 +157,7 @@
 | **R1** | [US-Software Engineer \|\|, IAM Architecture](https://www.wobo.ai/job/us-software-engineer-iam-architecture-at-r1-s9q3g3qwk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$51K to \$172K/yr | Nov&nbsp;18 |
 | **Parsons** | [CNO Tool Developer](https://www.wobo.ai/job/cno-tool-developer-at-parsons-s9wpz00ck/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$112K to \$196K/yr | Nov&nbsp;18 |
 | **Palo Alto Networks** | [District Systems Engineer](https://www.wobo.ai/job/district-systems-engineer-at-palo-alto-networks-scjnc3zan/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | San Francisco, CA | \$178K to \$244K/yr | Nov&nbsp;18 |
+| ↳ | [Staff Escalation Engineer Software](https://www.wobo.ai/job/staff-escalation-engineer-software-at-palo-alto-networks-s2ous0hyy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Boston, MA | \$112K to \$180K/yr | Nov&nbsp;18 |
 | **NVIDIA** | [Senior Automation Infrastructure Engineer](https://www.wobo.ai/job/senior-automation-infrastructure-engineer-at-nvidia-scj4lf7u3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | CA | \$188K to \$442K/yr | Nov&nbsp;18 |
 | **NIKE** | [Senior Software Engineer](https://www.wobo.ai/job/senior-software-engineer-at-nike-scr5zwasg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Philadelphia, PA | \$108K to \$213K/yr | Nov&nbsp;18 |
 | **Motorola Solutions** | [Senior DevOps Engineer (US REMOTE)](https://www.wobo.ai/job/senior-devops-engineer-us-remote-at-motorola-solutions-s7t6dx54x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Waltham, MA | \$140K to \$170K/yr | Nov&nbsp;18 |
@@ -649,7 +650,6 @@
 | ↳ | [Staff Solutions Engineer - West Coast](https://www.wobo.ai/job/staff-solutions-engineer-west-coast-at-teleport-s62nk4e2r/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Kraken** | [Software Engineer - DevOps - Bitnomial](https://www.wobo.ai/job/software-engineer-devops-bitnomial-at-kraken-r1tc9k2mi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | ↳ | [Software Engineer - Database - Bitnomial](https://www.wobo.ai/job/software-engineer-database-bitnomial-at-kraken-r1tc8qdkj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
-| **Vanta** | [Solutions Engineer, Mid-Market](https://www.wobo.ai/job/solutions-engineer-mid-market-at-vanta-r1sy01ssc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
@@ -1008,6 +1008,7 @@
 | **Nagarro** | [Associate Principal Consultant - SAP Analytics Solution Lead / Architect](https://www.wobo.ai/job/associate-principal-consultant-sap-analytics-solution-lead-architect-at-nagarro-rt4qdknw1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;16 |
 | **AeroVect** | [Senior Data Engineer](https://www.wobo.ai/job/senior-data-engineer-at-aerovect-rsg16osqc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;16 |
 | **Airwallex** | [Staff Data Platform Engineer, Knowledge Platform](https://www.wobo.ai/job/staff-data-platform-engineer-knowledge-platform-at-airwallex-rov1mrgc7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Seattle, WA |  | Nov&nbsp;15 |
+| **Primoris** | [Data Engineer](https://www.wobo.ai/job/data-engineer-at-primoris-s2u8yk1ww/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Dallas, TX | \$115K to \$120K/yr | Nov&nbsp;15 |
 | **Humana** | [Associate Director, Data Science](https://www.wobo.ai/job/associate-director-data-science-at-humana-rqihxr2h3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) | \$129K to \$178K/yr | Nov&nbsp;15 |
 | **Empower** | [Architect of Data Architecture](https://www.wobo.ai/job/architect-of-data-architecture-at-empower-rrmfk4vzb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$138K to \$200K/yr | Nov&nbsp;15 |
 | **Cornell University** | [Metadata and Data Analyst](https://www.wobo.ai/job/metadata-and-data-analyst-at-cornell-university-runt0uaci/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Ithaca, NY | \$66K to \$77K/yr | Nov&nbsp;15 |
@@ -1084,7 +1085,6 @@
 | **Experity India** | [Data Analyst Lead](https://www.wobo.ai/job/data-analyst-lead-at-experity-india-s5varbv4n/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Machesney Park, IL | \$115K to \$120K/yr | Nov&nbsp;10 |
 | **CVS Health** | [Executive Director, Enterprise Data Platform Product and Operations](https://www.wobo.ai/job/executive-director-enterprise-data-platform-product-and-operations-at-cvs-health-rngj7o89e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Woonsocket, RI | \$175K to \$335K/yr | Nov&nbsp;10 |
 | **onX** | [Manager III, Data Science](https://www.wobo.ai/job/manager-iii-data-science-at-onx-r6pvue4yz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Missoula, MT | \$177K to \$222K/yr | Nov&nbsp;10 |
-| **SpotOn** | [Senior Analytics Platform Engineer](https://www.wobo.ai/job/senior-analytics-platform-engineer-at-spoton-s5zze51vf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Chicago, IL | \$130K to \$173K/yr | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
