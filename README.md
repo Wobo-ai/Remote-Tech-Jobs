@@ -5,7 +5,7 @@
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (638) · [AI and ML](#remote-ai-and-ml-jobs) (234) · [Data](#remote-data-jobs) (187) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (226) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (639) · [AI and ML](#remote-ai-and-ml-jobs) (234) · [Data](#remote-data-jobs) (187) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (225) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -354,6 +354,7 @@
 | **GE Vernova** | [Senior Director, Software & Services Strategy](https://www.wobo.ai/job/senior-director-software-services-strategy-at-ge-vernova-ru7w237xd/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Atlanta, GA | \$248K to \$341K/yr | Nov&nbsp;15 |
 | **Franciscan Health** | [Systems Engineer II](https://www.wobo.ai/job/systems-engineer-ii-at-franciscan-health-rr6d6qm4d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$74K to \$102K/yr | Nov&nbsp;15 |
 | **Evolent** | [Manager, Software Engineering](https://www.wobo.ai/job/manager-software-engineering-at-evolent-s48uodp2o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$141K to \$161K/yr | Nov&nbsp;15 |
+| **Ecolab** | [Lead Platform Engineer - Remote](https://www.wobo.ai/job/lead-platform-engineer-remote-at-ecolab-s2le0p2qn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Eagan, MN | \$108K to \$162K/yr | Nov&nbsp;15 |
 | **CVS Health** | [Lead Director - Software Engineering](https://www.wobo.ai/job/lead-director-software-engineering-at-cvs-health-rz7l9wfpb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$144K to \$288K/yr | Nov&nbsp;15 |
 | ↳ | [Staff Software Development Engineer](https://www.wobo.ai/job/staff-software-development-engineer-at-cvs-health-rz7kn0814/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) +4 | \$118K to \$237K/yr | Nov&nbsp;15 |
 | ↳ | [Principal Software Development Engineer - Medicare Technology](https://www.wobo.ai/job/principal-software-development-engineer-medicare-technology-at-cvs-health-rz7dow3g3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Hartford, CT | \$144K to \$288K/yr | Nov&nbsp;15 |
@@ -1463,7 +1464,6 @@
 | **Cencora** | [Salesforce Product Owner/Strategist](https://www.wobo.ai/job/salesforce-product-ownerstrategist-at-cencora-rchnniqst/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | PA |  | Nov&nbsp;10 |
 | **Skimmer** | [Senior Product Manager, Financial Services](https://www.wobo.ai/job/senior-product-manager-financial-services-at-skimmer-r9rbcdi76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Dragos** | [Senior Technical Product Manager, Collection Management](https://www.wobo.ai/job/senior-technical-product-manager-collection-management-at-dragos-s4ctkwk9r/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$180K/yr | Nov&nbsp;10 |
-| **Proof** | [Principal Product Manager, Fraud and Risk](https://www.wobo.ai/job/principal-product-manager-fraud-and-risk-at-proof-r72cfgiaq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
