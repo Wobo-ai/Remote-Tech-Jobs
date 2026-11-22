@@ -5,7 +5,7 @@
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (634) · [AI and ML](#remote-ai-and-ml-jobs) (237) · [Data](#remote-data-jobs) (185) · [Security](#remote-security-jobs) (139) · [Product and design](#remote-product-and-design-jobs) (229) · [Hardware](#remote-hardware-jobs) (76) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (635) · [AI and ML](#remote-ai-and-ml-jobs) (236) · [Data](#remote-data-jobs) (185) · [Security](#remote-security-jobs) (139) · [Product and design](#remote-product-and-design-jobs) (229) · [Hardware](#remote-hardware-jobs) (76) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -287,6 +287,7 @@
 | **Tilt Finance** | [Senior Android Engineer](https://www.wobo.ai/job/senior-android-engineer-at-tilt-finance-rrg0n1zz0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;16 |
 | **SimSpace Corporation** | [Senior Software Engineer](https://www.wobo.ai/job/senior-software-engineer-at-simspace-corporation-rrg3jnh8s/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$160K to \$225K/yr | Nov&nbsp;16 |
 | **Anthropic** | [Software Engineer, Datacenter Server Lifecycle](https://www.wobo.ai/job/software-engineer-datacenter-server-lifecycle-at-anthropic-rtf9ircmd/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$405K to \$485K/yr | Nov&nbsp;16 |
+| **BlackSky** | [Staff Software Engineer](https://www.wobo.ai/job/staff-software-engineer-at-blacksky-s49rw07ts/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Seattle, WA | \$150K to \$180K/yr | Nov&nbsp;16 |
 | **Clera** | [Full-Stack Software Engineering Intern](https://www.wobo.ai/job/full-stack-software-engineering-intern-at-clera-rtxl5jh5k/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$50/hr | Nov&nbsp;16 |
 | ↳ | [Founding Full-Stack Engineer](https://www.wobo.ai/job/founding-full-stack-engineer-at-clera-rtxkuzpvt/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$120K to \$150K/yr | Nov&nbsp;16 |
 | ↳ | [Senior Solutions Engineer](https://www.wobo.ai/job/senior-solutions-engineer-at-clera-rpxppgoz1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Chicago, IL | \$140K to \$180K/yr | Nov&nbsp;16 |
@@ -887,7 +888,6 @@
 | **Buzz Solutions** | [Solutions Engineer (AI/ML) - South East US Region](https://www.wobo.ai/job/solutions-engineer-aiml-south-east-us-region-at-buzz-solutions-r6nutzk35/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Freshpaint** | [Product Manager, Data & AI](https://www.wobo.ai/job/product-manager-data-ai-at-freshpaint-r9nzm4xt3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Life360** | [Principal Agentic Engineer, AI Ecosystem](https://www.wobo.ai/job/principal-agentic-engineer-ai-ecosystem-at-life360-r6rnsi52h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$247K to \$363K/yr | Nov&nbsp;10 |
-| ↳ | [Staff AI Platform Engineer](https://www.wobo.ai/job/staff-ai-platform-engineer-at-life360-r6rnueplz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$149K to \$272K/yr | Nov&nbsp;10 |
 | **A-Alpha Bio** | [Scientist II, Applied Machine Learning](https://www.wobo.ai/job/scientist-ii-applied-machine-learning-at-a-alpha-bio-r6r6suvzy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Seattle, WA | \$139K to \$175K/yr | Nov&nbsp;10 |
 | **ŌURA** | [AI Security Engineer, Detection and Response](https://www.wobo.ai/job/ai-security-engineer-detection-and-response-at-oura-r706085n9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$151K to \$178K/yr | Nov&nbsp;10 |
 | **TELUS Digital** | [Roboticist (Embodied AI, Machine Learning, Computer Vision)](https://www.wobo.ai/job/roboticist-embodied-ai-machine-learning-computer-vision-at-telus-digital-s4ez4baoo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
