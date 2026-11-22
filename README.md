@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 1:42 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 22, 2026, 2:44 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (638) · [AI and ML](#remote-ai-and-ml-jobs) (235) · [Data](#remote-data-jobs) (185) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (637) · [AI and ML](#remote-ai-and-ml-jobs) (235) · [Data](#remote-data-jobs) (186) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -83,7 +83,6 @@
 | ↳ | [Staff Software Engineer, Content Operations Enablement (Remote)](https://www.wobo.ai/job/staff-software-engineer-content-operations-enablement-remote-at-the-home-depot-sgyoxd7u7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$120K to \$190K/yr | Nov&nbsp;19 |
 | ↳ | [Software Engineering Manager - Mobile Apps (Remote)](https://www.wobo.ai/job/software-engineering-manager-mobile-apps-remote-at-the-home-depot-sgyoq5hfs/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$140K to \$240K/yr | Nov&nbsp;19 |
 | ↳ | [Staff Software Engineer - Salesforce Engineering (Remote)](https://www.wobo.ai/job/staff-software-engineer-salesforce-engineering-remote-at-the-home-depot-sgyokstf7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$120K to \$190K/yr | Nov&nbsp;19 |
-| **Sysco** | [Regional New Business Developer](https://www.wobo.ai/job/regional-new-business-developer-at-sysco-servi8mp0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Salesforce** | [Senior Solution Engineer - Nonprofits](https://www.wobo.ai/job/senior-solution-engineer-nonprofits-at-salesforce-scygjy1dh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$113K to \$152K/yr | Nov&nbsp;19 |
 | **Penn State University** | [Cloud Engineer](https://www.wobo.ai/job/cloud-engineer-at-penn-state-university-sek4i1m8x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | San Diego, CA | \$120K to \$227K/yr | Nov&nbsp;19 |
 | **Parsons** | [Associate Software Engineer](https://www.wobo.ai/job/associate-software-engineer-at-parsons-sexpxlxif/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$64K to \$111K/yr | Nov&nbsp;19 |
@@ -944,6 +943,7 @@
 | **ServiceTitan** | [Director, Data Science](https://www.wobo.ai/job/director-data-science-at-servicetitan-s87m5uqij/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$264K to \$396K/yr | Nov&nbsp;18 |
 | **LabCorp** | [Director, Consumer Pricing and Analytics](https://www.wobo.ai/job/director-consumer-pricing-and-analytics-at-labcorp-s9wiks3eu/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Durham, NC | \$150K to \$165K/yr | Nov&nbsp;18 |
 | **Illumina** | [Associate Director, Digital Analytics & Data Integration](https://www.wobo.ai/job/associate-director-digital-analytics-data-integration-at-illumina-s83r7x9ye/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$171K to \$256K/yr | Nov&nbsp;18 |
+| **HCSC** | [Sr Analytics Consultant](https://www.wobo.ai/job/sr-analytics-consultant-at-hcsc-s39cc08f9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$84K to \$152K/yr | Nov&nbsp;18 |
 | **GDIT** | [Senior Data Engineer](https://www.wobo.ai/job/senior-data-engineer-at-gdit-s9wuvtsuz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$102K to \$138K/yr | Nov&nbsp;18 |
 | ↳ | [Data Analyst, Senior (Medicaid / Medicare)](https://www.wobo.ai/job/data-analyst-senior-medicaidmedicare-at-gdit-rz02q8ojj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$94K to \$127K/yr | Nov&nbsp;18 |
 | **First Advantage** | [Strategic Customer Success Data Analyst](https://www.wobo.ai/job/strategic-customer-success-data-analyst-at-first-advantage-s44ano0cx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$55K to \$70K/yr | Nov&nbsp;18 |
