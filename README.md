@@ -5,7 +5,7 @@
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (639) · [AI and ML](#remote-ai-and-ml-jobs) (235) · [Data](#remote-data-jobs) (183) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (228) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (639) · [AI and ML](#remote-ai-and-ml-jobs) (235) · [Data](#remote-data-jobs) (184) · [Security](#remote-security-jobs) (138) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -982,6 +982,7 @@
 | **Bristol Myers Squibb** | [Data Science Intern (MS/PhD)-Summer 2027](https://www.wobo.ai/job/data-science-intern-msphd-summer-2027-at-bristol-myers-squibb-rykv2bb1q/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$36 to \$45/hr | Nov&nbsp;17 |
 | ↳ | [Data Science Intern (Undergrad)-Summer 2027](https://www.wobo.ai/job/data-science-intern-undergrad-summer-2027-at-bristol-myers-squibb-rykv1i97v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$24 to \$30/hr | Nov&nbsp;17 |
 | **Booz Allen** | [Data Engineer](https://www.wobo.ai/job/data-engineer-at-booz-allen-rz1isou1d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Honolulu, HI | \$78K to \$176K/yr | Nov&nbsp;17 |
+| **Arizona State University** | [Data Analysis Specialist](https://www.wobo.ai/job/data-analysis-specialist-at-arizona-state-university-s3imrqtys/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Mesa, AZ | \$45K to \$49K/yr | Nov&nbsp;17 |
 | **Toast** | [Data Engineer](https://www.wobo.ai/job/data-engineer-at-toast-rwzj6ecog/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$106K to \$170K/yr | Nov&nbsp;17 |
 | **Airbnb** | [Senior Data Engineer Tech Foundations](https://www.wobo.ai/job/senior-data-engineer-tech-foundations-at-airbnb-rxquhhot5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$196K to \$230K/yr | Nov&nbsp;17 |
 | **Red Ventures** | [Staff Data Engineer \| Allconnect](https://www.wobo.ai/job/staff-data-engineer-allconnect-at-red-ventures-rxfo99bc4/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$130K to \$220K/yr | Nov&nbsp;17 |
@@ -1463,7 +1464,6 @@
 | **Skimmer** | [Senior Product Manager, Financial Services](https://www.wobo.ai/job/senior-product-manager-financial-services-at-skimmer-r9rbcdi76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 | **Dragos** | [Senior Technical Product Manager, Collection Management](https://www.wobo.ai/job/senior-technical-product-manager-collection-management-at-dragos-s4ctkwk9r/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$180K/yr | Nov&nbsp;10 |
 | **Proof** | [Principal Product Manager, Fraud and Risk](https://www.wobo.ai/job/principal-product-manager-fraud-and-risk-at-proof-r72cfgiaq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
-| **DoorDash** | [Staff Product Manager, People Product (HR Partner Products)](https://www.wobo.ai/job/staff-product-manager-people-product-hr-partner-products-at-doordash-r6r6illxe/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$194K to \$285K/yr | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
