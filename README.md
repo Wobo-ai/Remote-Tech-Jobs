@@ -1,6 +1,6 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 5:29 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 12:50 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
@@ -96,7 +96,6 @@
 | **Momentive Software** | [Data Migration Specialist / SQL Developer](https://www.wobo.ai/job/data-migration-specialist-sql-developer-at-momentive-software-scsyyblro/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
 | **Lineage Logistics** | [Lead Software Quality Engineer](https://www.wobo.ai/job/lead-software-quality-engineer-at-lineage-logistics-sema8eslm/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Novi, MI |  | Nov&nbsp;19 |
 | **Leidos** | [Cryptography & Security Infrastructure Engineer – Mid-Level](https://www.wobo.ai/job/cryptography-security-infrastructure-engineer-mid-level-at-leidos-sexnvztjv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$87K to \$157K/yr | Nov&nbsp;19 |
-| **Inmar** | [Software Engineer](https://www.wobo.ai/job/software-engineer-at-inmar-sekl4xt32/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Winston-Salem, NC |  | Nov&nbsp;19 |
 | **ICF** | [Site Reliability Engineer (Top Secret Clearance) - Remote US](https://www.wobo.ai/job/site-reliability-engineer-top-secret-clearance-remote-us-at-icf-sen3kq5d3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Reston, VA | \$99K to \$168K/yr | Nov&nbsp;19 |
 | **GE Vernova** | [Engineering Technical Lead - I&C Embedded Software](https://www.wobo.ai/job/engineering-technical-lead-ic-embedded-software-at-ge-vernova-sen8n61nf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$113K to \$189K/yr | Nov&nbsp;19 |
 | **GDIT** | [Oracle EBS Developer](https://www.wobo.ai/job/oracle-ebs-developer-at-gdit-sextp2rrz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Any Location | \$130K to \$175K/yr | Nov&nbsp;19 |
@@ -649,6 +648,7 @@
 | **Boomi** | [Director, Solution Engineering - Commercial](https://www.wobo.ai/job/director-solution-engineering-commercial-at-boomi-r1lc7azua/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$244K to \$305K/yr | Nov&nbsp;10 |
 | **Pinterest** | [Staff Security Software Engineer, Detection & Response](https://www.wobo.ai/job/staff-security-software-engineer-detection-response-at-pinterest-r6r5mlg46/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Seattle, WA | \$177K to \$365K/yr | Nov&nbsp;10 |
 | **onX** | [Backend Engineer III - Identity & Access Management](https://www.wobo.ai/job/backend-engineer-iii-identity-access-management-at-onx-r6pvtudiv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Missoula, MT | \$130K to \$153K/yr | Nov&nbsp;10 |
+| **RVO Health** | [Software Engineer, Golang](https://www.wobo.ai/job/software-engineer-golang-at-rvo-health-r6pxeqhnq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$98K to \$125K/yr | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
