@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 4:34 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
+**1,500 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 23, 2026, 6:06 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. Each role opens on wobo.ai, where you can read the job and apply.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (631) · [AI and ML](#remote-ai-and-ml-jobs) (237) · [Data](#remote-data-jobs) (189) · [Security](#remote-security-jobs) (141) · [Product and design](#remote-product-and-design-jobs) (225) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (631) · [AI and ML](#remote-ai-and-ml-jobs) (237) · [Data](#remote-data-jobs) (188) · [Security](#remote-security-jobs) (141) · [Product and design](#remote-product-and-design-jobs) (226) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -895,7 +895,6 @@
 
 | Company | Role | Location | Pay | Posted |
 | :-- | :-- | :-- | :-- | :-- |
-| **VSP Vision** | [Business Data Analyst](https://www.wobo.ai/job/business-data-analyst-at-vsp-vision-sn42aftl6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$59K to \$92K/yr | Nov&nbsp;22 |
 | **RTX** | [Principal Specialist Data Engineer (Remote)](https://www.wobo.ai/job/principal-specialist-data-engineer-remote-at-rtx-sn2l9a2pr/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$87K to \$165K/yr | Nov&nbsp;22 |
 | **First American** | [Sr. Analyst, Default Strategy & Analytics (Remote)](https://www.wobo.ai/job/sr-analyst-default-strategy-analytics-remote-at-first-american-sn2owt4oi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | TX | \$98K to \$130K/yr | Nov&nbsp;22 |
 | **DIRECTV** | [Principal, Advanced Analytics](https://www.wobo.ai/job/principal-advanced-analytics-at-directv-sng6c3ete/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | El Segundo, CA | \$134K to \$244K/yr | Nov&nbsp;22 |
@@ -1464,6 +1463,7 @@
 | **Foundant Technologies + SmartSimple Software** | [Product Owner](https://www.wobo.ai/job/product-owner-at-foundant-technologies-smartsimple-software-r19c6nb5w/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;11 |
 | **PTC** | [Principal Product Manager](https://www.wobo.ai/job/principal-product-manager-at-ptc-rcrvnfnd3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$131K to \$200K/yr | Nov&nbsp;10 |
 | **Cencora** | [Salesforce Product Owner/Strategist](https://www.wobo.ai/job/salesforce-product-ownerstrategist-at-cencora-rchnniqst/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | PA |  | Nov&nbsp;10 |
+| **Skimmer** | [Senior Product Manager, Financial Services](https://www.wobo.ai/job/senior-product-manager-financial-services-at-skimmer-r9rbcdi76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
