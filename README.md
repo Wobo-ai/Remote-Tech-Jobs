@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,475 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,474 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (603) · [AI and ML](#remote-ai-and-ml-jobs) (253) · [Data](#remote-data-jobs) (183) · [Security](#remote-security-jobs) (142) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (67) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (603) · [AI and ML](#remote-ai-and-ml-jobs) (253) · [Data](#remote-data-jobs) (183) · [Security](#remote-security-jobs) (141) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (67) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -1214,7 +1214,6 @@
 | ↳ | Security Engineer, Web Application Security | Remote (US) | \$107K to \$147K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2tix5p4g/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2tix5p4g/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Cherokee Federal** | Cybersecurity A&A Risk Analyst | Remote (US) | \$110K to \$112K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2qrtbmd3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2qrtbmd3/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Senior Cybersecurity A&A Risk Analyst | Remote (US) | \$130K to \$135K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2qrsdwfe/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2qrsdwfe/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| ↳ | Senior Cloud Security Engineer | Remote (US) | \$160K to \$165K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2qmyh6rv/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2qmyh6rv/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
