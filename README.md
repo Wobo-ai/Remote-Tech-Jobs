@@ -5,7 +5,7 @@
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (631) · [AI and ML](#remote-ai-and-ml-jobs) (237) · [Data](#remote-data-jobs) (188) · [Security](#remote-security-jobs) (141) · [Product and design](#remote-product-and-design-jobs) (226) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (631) · [AI and ML](#remote-ai-and-ml-jobs) (236) · [Data](#remote-data-jobs) (188) · [Security](#remote-security-jobs) (141) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (77) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -656,7 +656,6 @@
 | ↳ | [Applied AI Researcher](https://www.wobo.ai/job/applied-ai-researcher-at-clera-sm1x04uwq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | New York City, NY |  | Nov&nbsp;22 |
 | **Trellix** | [Senior Distinguished Engineer, Applied AI & Advanced Concepts](https://www.wobo.ai/job/senior-distinguished-engineer-applied-ai-advanced-concepts-at-trellix-sn3gs03fe/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) | \$200K to \$240K/yr | Nov&nbsp;22 |
 | ↳ | [Senior Distinguished Engineer, AI Safety & Security](https://www.wobo.ai/job/senior-distinguished-engineer-ai-safety-security-at-trellix-sn3grhufq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$200K to \$250K/yr | Nov&nbsp;22 |
-| **Accuity** | [AI Engineer](https://www.wobo.ai/job/ai-engineer-at-accuity-sgwhr7hoj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) 🎓 | Remote (US) |  | Nov&nbsp;21 |
 | **YA Group** | [AI Solutions Engineer](https://www.wobo.ai/job/ai-solutions-engineer-at-ya-group-sg7967pw2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;21 |
 | **BILL** | [Senior Staff Software Engineer, Backend - AI Native (Evergreen)](https://www.wobo.ai/job/senior-staff-software-engineer-backend-ai-native-evergreen-at-bill-scujjrwhb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$232K to \$290K/yr | Nov&nbsp;20 |
 | ↳ | [Staff Software Engineer- Frontend - AI Native](https://www.wobo.ai/job/staff-software-engineer-frontend-ai-native-at-bill-scujm2dio/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$209K to \$250K/yr | Nov&nbsp;20 |
@@ -1464,6 +1463,7 @@
 | **Foundant Technologies + SmartSimple Software** | [Product Owner](https://www.wobo.ai/job/product-owner-at-foundant-technologies-smartsimple-software-r19c6nb5w/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;11 |
 | **PTC** | [Principal Product Manager](https://www.wobo.ai/job/principal-product-manager-at-ptc-rcrvnfnd3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$131K to \$200K/yr | Nov&nbsp;10 |
 | **Cencora** | [Salesforce Product Owner/Strategist](https://www.wobo.ai/job/salesforce-product-ownerstrategist-at-cencora-rchnniqst/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | PA |  | Nov&nbsp;10 |
+| **Skimmer** | [Senior Product Manager, Financial Services](https://www.wobo.ai/job/senior-product-manager-financial-services-at-skimmer-r9rbcdi76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
