@@ -99,7 +99,6 @@
 | **Penn State University** | [Cloud Engineer](https://www.wobo.ai/job/cloud-engineer-at-penn-state-university-sek4i1m8x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | San Diego, CA | \$120K to \$227K/yr | Nov&nbsp;19 |
 | **North** | [Senior AWS Cloud Engineer](https://www.wobo.ai/job/senior-aws-cloud-engineer-at-north-scsii6zcd/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$105K to \$150K/yr | Nov&nbsp;19 |
 | **Momentive Software** | [Data Migration Specialist / SQL Developer](https://www.wobo.ai/job/data-migration-specialist-sql-developer-at-momentive-software-scsyyblro/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;19 |
-| **Lineage Logistics** | [Lead Software Quality Engineer](https://www.wobo.ai/job/lead-software-quality-engineer-at-lineage-logistics-sema8eslm/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Novi, MI |  | Nov&nbsp;19 |
 | **Leidos** | [Cryptography & Security Infrastructure Engineer – Mid-Level](https://www.wobo.ai/job/cryptography-security-infrastructure-engineer-mid-level-at-leidos-sexnvztjv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Remote (US) | \$87K to \$157K/yr | Nov&nbsp;19 |
 | **ICF** | [Site Reliability Engineer (Top Secret Clearance) - Remote US](https://www.wobo.ai/job/site-reliability-engineer-top-secret-clearance-remote-us-at-icf-sen3kq5d3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) <kbd>clearance</kbd> | Reston, VA | \$99K to \$168K/yr | Nov&nbsp;19 |
 | **GE Vernova** | [Engineering Technical Lead - I&C Embedded Software](https://www.wobo.ai/job/engineering-technical-lead-ic-embedded-software-at-ge-vernova-sen8n61nf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$113K to \$189K/yr | Nov&nbsp;19 |
@@ -644,6 +643,7 @@
 | **Cardinal Health** | [OutSystems Engineer](https://www.wobo.ai/job/outsystems-engineer-at-cardinal-health-rbf1un93a/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) | \$96K to \$138K/yr | Nov&nbsp;10 |
 | **Allstate** | [Software Engineer Senior Consultant I](https://www.wobo.ai/job/software-engineer-senior-consultant-i-at-allstate-rcj4zstk2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | IL | \$91K to \$154K/yr | Nov&nbsp;10 |
 | **Crogl** | [Solutions Engineer](https://www.wobo.ai/job/solutions-engineer-at-crogl-r9rc9548k/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | Remote (US) |  | Nov&nbsp;10 |
+| **Fin** | [Director, Solutions Engineering](https://www.wobo.ai/job/director-solutions-engineering-at-fin-r6vff9pqj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) | New York City, NY | \$329K to \$392K/yr | Nov&nbsp;10 |
 
 [Back to sections](#sections)
 
