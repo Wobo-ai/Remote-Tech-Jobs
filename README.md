@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,387 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:05 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,386 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:05 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (563) · [AI and ML](#remote-ai-and-ml-jobs) (244) · [Data](#remote-data-jobs) (173) · [Security](#remote-security-jobs) (129) · [Product and design](#remote-product-and-design-jobs) (216) · [Hardware](#remote-hardware-jobs) (62) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (562) · [AI and ML](#remote-ai-and-ml-jobs) (244) · [Data](#remote-data-jobs) (173) · [Security](#remote-security-jobs) (129) · [Product and design](#remote-product-and-design-jobs) (216) · [Hardware](#remote-hardware-jobs) (62) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -575,7 +575,6 @@
 | **Capital One** | Staff Full-stack Engineer | Remote (US) | \$245K to \$279K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rdadujk69/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rdadujk69/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Alkami Technology** | Software Engineer, Activations (MANTL) | Remote (US) | \$130K to \$145K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s47phml2i/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s47phml2i/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **3M** | Senior Application Engineer | Remote (US) | \$124K to \$152K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rgpvhpq8t/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rgpvhpq8t/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Toast** | Staff Software Engineer, Application Infrastructure | Remote (US) | \$151K to \$309K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rbkayfs5u/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rbkayfs5u/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
