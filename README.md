@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,474 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,475 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 24, 2026, 4:56 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (602) · [AI and ML](#remote-ai-and-ml-jobs) (252) · [Data](#remote-data-jobs) (182) · [Security](#remote-security-jobs) (143) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (68) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (603) · [AI and ML](#remote-ai-and-ml-jobs) (252) · [Data](#remote-data-jobs) (182) · [Security](#remote-security-jobs) (143) · [Product and design](#remote-product-and-design-jobs) (227) · [Hardware](#remote-hardware-jobs) (68) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -615,6 +615,7 @@
 | **Yum! Brands** | Staff Software Engineer - Byte POS | Remote (US) | \$149K to \$187K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2tiu9iew/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2tiu9iew/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Michael Baker International** | Full Stack Product Builder | Kansas City, MO | \$150K to \$175K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2stok96o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2stok96o/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Cherokee Federal** | Senior Full Stack Engineer | Remote (US) | \$140K to \$160K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2qrc470e/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2qrc470e/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| **Fortive** | Software Engineer II | Remote (US) |  | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r2q8aybc3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r2q8aybc3/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
