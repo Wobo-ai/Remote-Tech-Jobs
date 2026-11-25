@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,380 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:30 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,379 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:30 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (559) · [AI and ML](#remote-ai-and-ml-jobs) (243) · [Data](#remote-data-jobs) (170) · [Security](#remote-security-jobs) (125) · [Product and design](#remote-product-and-design-jobs) (219) · [Hardware](#remote-hardware-jobs) (64) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (558) · [AI and ML](#remote-ai-and-ml-jobs) (243) · [Data](#remote-data-jobs) (170) · [Security](#remote-security-jobs) (125) · [Product and design](#remote-product-and-design-jobs) (219) · [Hardware](#remote-hardware-jobs) (64) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -571,7 +571,6 @@
 | **Photon** | Front End Engineer - Angular- Dallas, TX | Dallas, TX | \$38K to \$135K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r8lyjr49h/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8lyjr49h/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Honeywell** | Spring 2027 Software Engineering Co-op | Remote (US) | \$26 to \$45/hr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r8i8x6brc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8i8x6brc/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Zaden Technologies, Inc.** | Site Reliability / Observability Engineer | Continental, OH | \$123K to \$163K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/r8gpvgvhc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/r8gpvgvhc/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Quo** | QA Automation Engineer (SDET), Web | CA | \$136K to \$159K/yr | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ss7ylflrj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss7ylflrj/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
