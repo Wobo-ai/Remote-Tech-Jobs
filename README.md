@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,386 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:30 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,385 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:30 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (564) · [AI and ML](#remote-ai-and-ml-jobs) (244) · [Data](#remote-data-jobs) (170) · [Security](#remote-security-jobs) (126) · [Product and design](#remote-product-and-design-jobs) (218) · [Hardware](#remote-hardware-jobs) (64) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (563) · [AI and ML](#remote-ai-and-ml-jobs) (244) · [Data](#remote-data-jobs) (170) · [Security](#remote-security-jobs) (126) · [Product and design](#remote-product-and-design-jobs) (218) · [Hardware](#remote-hardware-jobs) (64) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -576,7 +576,6 @@
 | **Mirantis** | Senior Software Engineer | Raleigh, NC |  | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rblnpgzx6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rblnpgzx6/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Senior Software Engineer, UI | Raleigh, NC |  | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rblnqx6ar/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rblnqx6ar/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Cologix** | NetSuite Developer | Denver, CO |  | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rb2n4no8d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rb2n4no8d/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Pogo Technologies, Inc.** | Full Stack Engineer | Brooklyn, NY |  | Nov&nbsp;11 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4tl07vrw/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4tl07vrw/?apply=1&utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
