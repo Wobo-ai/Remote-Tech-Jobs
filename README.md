@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,377 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 5:21 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,365 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 26, 2026, 5:21 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (554) · [AI and ML](#remote-ai-and-ml-jobs) (245) · [Data](#remote-data-jobs) (169) · [Security](#remote-security-jobs) (126) · [Product and design](#remote-product-and-design-jobs) (224) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (551) · [AI and ML](#remote-ai-and-ml-jobs) (243) · [Data](#remote-data-jobs) (169) · [Security](#remote-security-jobs) (126) · [Product and design](#remote-product-and-design-jobs) (219) · [Hardware](#remote-hardware-jobs) (57) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -564,9 +564,6 @@
 | **Hex** | Staff Software Engineer, Infrastructure | Remote (US) | \$246K to \$329K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s489cjx7o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s489cjx7o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **‎ConnectWise** | Software Training Consultant II | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfsm1spqf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfsm1spqf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Matter Labs** | Senior Software Engineer, Production | Remote (US) | \$192K to \$230K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/repdrn2r5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/repdrn2r5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Qdrant** | Solutions Engineer (US) | San Francisco, CA |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s5s6qdf1v/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5s6qdf1v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Bluesight** | Senior Software Engineer - 340B | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rep0op7yx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rep0op7yx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Omni** | Staff Solutions Engineer, Pre-Sales | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s62srak8e/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s62srak8e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -817,8 +814,6 @@
 | **Runway** | Member of Technical Staff, ML Platform (Evals) | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s46j86jjn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s46j86jjn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Toast** | Senior Software Engineer, Vision AI | Remote (US) | \$159K to \$254K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfb7ekzty/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfb7ekzty/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **BGBx** | Senior Associate, AI Transformation | New York City, NY | \$80K to \$120K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfwdyccjx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfwdyccjx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Miratech** | Principal AI Strategist | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfpzrzik2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfpzrzik2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Reddit** | Staff Machine Learning Engineer, Ads Foundational Representations | New York City, NY | \$230K to \$322K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rftabrrdt/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rftabrrdt/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1354,11 +1349,6 @@
 | **Koalafi** | Senior Product Designer | Richmond, VA | \$141K to \$180K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4tf7j381/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4tf7j381/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Fanatics Betting & Gaming** | Senior Product Manager, Internal Tools & Marketing Technology | New York City, NY | \$117K to \$194K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfx3kfc6o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfx3kfc6o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Kraken** | Sr Product Manager - Virality, Referrals & KOL | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/repf5m8e7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/repf5m8e7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Oscar Health** | Staff Product Manager, Personalization | Boston, MA +1 | \$181K to \$237K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfujelhkg/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfujelhkg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Dragos** | Senior Product Manager, Protocol and Asset Identification (Electric) | Remote (US) | \$180K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4cterqc9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4cterqc9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Clasp** | Associate Product Manager, Clasp Talent | Remote (US) | \$85K to \$100K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s64bw5w6v/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s64bw5w6v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Vector Solutions** | Senior Product Manager - Commercial | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ren1n0cth/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ren1n0cth/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Coder** | Senior Product Designer | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rdf4gbybs/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rdf4gbybs/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1423,8 +1413,6 @@
 | **Weekday AI** | Electronics Engineer (DesignSpark PCB Specialist) | Remote (US) | \$63 to \$122/hr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rf0hmvuua/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rf0hmvuua/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **GE Vernova** | Graduate Field Service Engineer Electrical-5 | Remote (US) | \$64K to \$96K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjs4svfdm/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjs4svfdm/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Cisco** | Hardware (ECAD) Engineer | San Jose, CA | \$138K to \$197K/yr | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjiqp28uq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjiqp28uq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Intersect** | Clean Energy Senior Electrical Engineer | Remote (US) |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/retftwh8h/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/retftwh8h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **CRB** | Electrical Engineer V | Omaha, NE |  | Nov&nbsp;12 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfc7uokbt/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfc7uokbt/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
