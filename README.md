@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,348 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:05 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,347 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 25, 2026, 4:05 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (547) · [AI and ML](#remote-ai-and-ml-jobs) (239) · [Data](#remote-data-jobs) (169) · [Security](#remote-security-jobs) (125) · [Product and design](#remote-product-and-design-jobs) (209) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (547) · [AI and ML](#remote-ai-and-ml-jobs) (239) · [Data](#remote-data-jobs) (168) · [Security](#remote-security-jobs) (125) · [Product and design](#remote-product-and-design-jobs) (209) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -857,7 +857,6 @@
 | **Truveta** | Real World Data Analyst | Seattle, WA | \$110K to \$160K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sq6wjoww9/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq6wjoww9/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Donorbox** | Senior Manager, Business Intelligence & Analytics | Canada, KY | \$147K to \$175K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sq8tjwcz5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sq8tjwcz5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Oscilar** | Sr. Data Analyst - Fraud/AML | Remote (US) |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/snq3m3cos/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/snq3m3cos/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Lindus** | Data Architect | Remote (US) |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sot1vj1tq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sot1vj1tq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **RTX** | Principal Specialist Data Engineer (Remote) | Remote (US) | \$87K to \$165K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sn2l9a2pr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sn2l9a2pr/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Humana** | Senior Analytics Consultant | Remote (US) | \$98K to \$134K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/srqyrsx96/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srqyrsx96/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Guidehouse** | Fraud Data Analyst | Remote (US) | \$113K to \$188K/yr | Nov&nbsp;22 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/srtaymo6h/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srtaymo6h/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
