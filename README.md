@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,253 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,251 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:06 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (504) · [AI and ML](#remote-ai-and-ml-jobs) (220) · [Data](#remote-data-jobs) (150) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (199) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (504) · [AI and ML](#remote-ai-and-ml-jobs) (219) · [Data](#remote-data-jobs) (150) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -743,7 +743,6 @@
 | **Life360** | Senior Software Engineer, Verticals (AI Native) | Remote (US) | \$104K to \$192K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjap6ulq8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjap6ulq8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Hims & Hers** | Sr Analyst, AI Analytics | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkqxcz9al/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkqxcz9al/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **TensorWave** | ML Engineer, Developer Ecosystem | Las Vegas, NV |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkper1e3x/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkper1e3x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **SimSpace Corporation** | Staff Software Engineer – AI-Native Development | Remote (US) | \$180K to \$260K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkr09uo87/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkr09uo87/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1234,7 +1233,6 @@
 | **AutoFi** | Senior/Staff Product Manager - Automotive Commerce & Fintech | Remote (US) |  | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s5setppfr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5setppfr/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Akamai** | Principal User Experience Designer | Cambridge, MA | \$139K to \$251K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rik45d4q8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rik45d4q8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Phantom** | Senior Product Manager (Prediction Markets) | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri8b9p7un/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri8b9p7un/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Fieldguide** | Principal/Staff Product Manager, Risk Advisory | San Francisco, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkmqcs96o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkmqcs96o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
