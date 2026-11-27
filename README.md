@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,303 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,298 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (523) · [AI and ML](#remote-ai-and-ml-jobs) (224) · [Data](#remote-data-jobs) (163) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (211) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (523) · [AI and ML](#remote-ai-and-ml-jobs) (224) · [Data](#remote-data-jobs) (160) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (210) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -934,9 +934,6 @@
 | **Agiloft** | Staff Data Engineer | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjx1x1dw2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjx1x1dw2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Trilogy Federal** | Data Visualization Engineer | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1e34x2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1e34x2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Data Analyst (FinOps) | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1az3v7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1az3v7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| ↳ | Data Engineer | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1b3c3i/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1b3c3i/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Morgan & Morgan, P.A.** | Data Scientist | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjanyu3ff/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjanyu3ff/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Tendo** | Principal Product Engineer, Clinical Data Analytics | San Francisco, CA +1 | \$157K to \$213K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rgl86b7lf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rgl86b7lf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1283,7 +1280,6 @@
 | **Vector Solutions** | Senior Product Manager - Higher Education | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri6k4cm1z/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri6k4cm1z/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **ABC Legal Services** | Technical Product Owner, Service of Process (SAFe) | Longmont, CO | \$90K to \$110K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjbxl44e0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjbxl44e0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Lyra Health** | Sr. Clinical Product Manager 🎓 | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rk4bzk95e/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rk4bzk95e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Illumio** | Director, Global Public Sector Product Management <kbd>clearance</kbd> | DC |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rh8vozc3u/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rh8vozc3u/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1350,7 +1346,6 @@
 | **Greif** | Project Engineer II - Electrical | Works from Home - United States | \$94K to \$161K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rpv1onobn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rpv1onobn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Techflow** | Senior Electrical Engineer (Part Time) <kbd>clearance</kbd> | NC |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rik502pz6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rik502pz6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Stantec** | Mechanical Engineer | Charlottesville, VA |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rifthv895/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rifthv895/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Voyager Technologies, Inc.** | Mechanical Engineer III - Design <kbd>clearance</kbd> | Reno, NV | \$109K to \$155K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rje7otet5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rje7otet5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
