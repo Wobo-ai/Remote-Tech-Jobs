@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,251 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:06 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,248 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:06 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (504) · [AI and ML](#remote-ai-and-ml-jobs) (219) · [Data](#remote-data-jobs) (150) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (198) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (503) · [AI and ML](#remote-ai-and-ml-jobs) (218) · [Data](#remote-data-jobs) (150) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -516,7 +516,6 @@
 | **Saliense LLC** | SharePoint/Power App Developer | Remote (US) | \$130K to \$145K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rhtocz5c5/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rhtocz5c5/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **OpenLoop Health** | Staff Site Reliability Engineer (DBRE), AWS & Databases | Des Moines, IA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s5zyn3lrk/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5zyn3lrk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **WellSky** | Staff Software Engineer - Python | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkihdjz2d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkihdjz2d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Skylight** | Principal Software Engineer, Lead (U.S. Air Force) | Remote (US) | \$180K to \$230K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4nubn3s1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4nubn3s1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -742,7 +741,6 @@
 | ↳ | Principal Machine Learning Engineer, Vision AI | Remote (US) | \$230K to \$368K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ritt8y9rj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ritt8y9rj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Life360** | Senior Software Engineer, Verticals (AI Native) | Remote (US) | \$104K to \$192K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjap6ulq8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjap6ulq8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Hims & Hers** | Sr Analyst, AI Analytics | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkqxcz9al/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkqxcz9al/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **TensorWave** | ML Engineer, Developer Ecosystem | Las Vegas, NV |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkper1e3x/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkper1e3x/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1232,7 +1230,6 @@
 | **SHI International Corp.** | Product Manager | Remote (US) | \$120K to \$200K/yr | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rtslkq0dr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rtslkq0dr/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **AutoFi** | Senior/Staff Product Manager - Automotive Commerce & Fintech | Remote (US) |  | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s5setppfr/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5setppfr/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Akamai** | Principal User Experience Designer | Cambridge, MA | \$139K to \$251K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rik45d4q8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rik45d4q8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Phantom** | Senior Product Manager (Prediction Markets) | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri8b9p7un/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri8b9p7un/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
