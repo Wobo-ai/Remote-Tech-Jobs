@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,310 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:05 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,311 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (225) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -576,6 +576,7 @@
 | **Gartner** | Sr Director Analyst – AI in Sales Enablement (Remote U.S.) | Remote (US) | \$172K to \$203K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ssueq04ze/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ssueq04ze/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Evernorth Health Services** | AI Product Builder | Remote (US) | \$155K to \$258K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swogybpmz/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swogybpmz/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **ERPA** | AI Engineer – Generative AI and Agentic Systems | Remote (US) |  | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/szt13d7y0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szt13d7y0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| **CVS Health** | Staff Software Development Engineer (Agentic AI/ML Architect) | Richardson, TX | \$118K to \$237K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t433yffhp/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t433yffhp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Cerence AI** | Principal/Senior AI Engineer - Audio AI: Audio Intelligence for Robotics and Automation | Remote (US) |  | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/szszn2h7t/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szszn2h7t/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **BILL** | Senior Staff Software Engineer, Web Platform - AI Native | Remote (US) | \$232K to \$290K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sv58tyzgb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv58tyzgb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Exadel Inc** | Senior Product Manager (AI for Sourcing) | Remote (US) | \$70 to \$80/hr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sv549fwpf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv549fwpf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
