@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,311 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,312 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (527) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -156,6 +156,7 @@
 | **EverCommerce** | EverHealth - Staff Software Engineer (Remote, US) | Remote (US) | \$150K to \$170K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sv4aa87at/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv4aa87at/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Enza Zaden** | Product Developer, Watermelon & Squash | Moultrie, GA | \$88K to \$107K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ss2g13uxp/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ss2g13uxp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **DraftKings** | Lead Android Engineer | Remote (US) | \$136K to \$170K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/srobfy4la/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/srobfy4la/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| **CVS Health** | Lead Director Software Development Engineering Payment Integrity | Remote (US) | \$144K to \$288K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t43jrwcht/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t43jrwcht/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **CSI** | QA Engineer | Remote (US) |  | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sv4fea36g/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sv4fea36g/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Cisco** | Distinguished Software Engineer (Remote) | San Jose, CA | \$294K to \$407K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swomgrgvh/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swomgrgvh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Leader, Software Engineering | Denver, CO | \$139K to \$204K/yr | Nov&nbsp;23 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swomdx3lx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swomdx3lx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
