@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,312 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,310 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (527) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -539,7 +539,6 @@
 | **OpenClaw Foundation** | Mobile Engineer (Member of Technical Staff) | San Francisco, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s53950yo6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s53950yo6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **GameChanger** | Software Engineer, Ads | New York City, NY | \$120K to \$140K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri8b5tv8p/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri8b5tv8p/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Protective** | Sr Dynamics 365 App Developer (remote) | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rickbwsld/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rickbwsld/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Aduna Global** | Developer Advocate - Network APIs | Dallas, TX |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rj879zp7n/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rj879zp7n/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1073,7 +1072,6 @@
 | ↳ | Penetration Tester (Texas/Florida) | TX +1 |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rj96i5l76/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rj96i5l76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Prime Data Centers** | Physical Security Engineer | Remote (US) | \$120K to \$145K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri835ilzy/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri835ilzy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Turquoise** | Senior Application Security Engineer | San Diego, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s647bkfsy/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s647bkfsy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Fanatics Betting & Gaming** | Senior Security Engineer (Remote) | New York City, NY | \$128K to \$160K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjeynq20z/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjeynq20z/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
