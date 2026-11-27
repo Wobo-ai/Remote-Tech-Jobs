@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,307 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,303 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (225) · [Data](#remote-data-jobs) (163) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (211) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (523) · [AI and ML](#remote-ai-and-ml-jobs) (224) · [Data](#remote-data-jobs) (163) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (211) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -536,9 +536,6 @@
 | **Octane** | Software Engineer II | Irving, TX | \$105K to \$135K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rj966euja/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rj966euja/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Trilogy Federal** | QA Engineer | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1hkxrl/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1hkxrl/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Full Stack Engineer – CDW Migration | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1gyf3u/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1gyf3u/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **OpenClaw Foundation** | Mobile Engineer (Member of Technical Staff) | San Francisco, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s53950yo6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s53950yo6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **GameChanger** | Software Engineer, Ads | New York City, NY | \$120K to \$140K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri8b5tv8p/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri8b5tv8p/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Protective** | Sr Dynamics 365 App Developer (remote) | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rickbwsld/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rickbwsld/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -770,7 +767,6 @@
 | **Dragos** | Senior AI/ML Engineer | Remote (US) | \$190K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4csxmpja/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4csxmpja/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Kinetic Systems** | Clinical AI Research Fellowship | Remote (US) | \$2K/wk | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4xghrhys/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4xghrhys/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Trilogy Federal** | AI/ML Engineer | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1953sb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1953sb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Tessera Labs** | Data Forward Deployed Engineer – Applied Data & ML Engineering | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri6i1i6cd/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri6i1i6cd/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
