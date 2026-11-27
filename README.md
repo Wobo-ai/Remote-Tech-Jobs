@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,309 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,307 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:44 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (226) · [Data](#remote-data-jobs) (163) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (225) · [Data](#remote-data-jobs) (163) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (211) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -771,7 +771,6 @@
 | **Kinetic Systems** | Clinical AI Research Fellowship | Remote (US) | \$2K/wk | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4xghrhys/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4xghrhys/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Trilogy Federal** | AI/ML Engineer | Arlington, VA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjk1953sb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjk1953sb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Tessera Labs** | Data Forward Deployed Engineer – Applied Data & ML Engineering | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri6i1i6cd/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri6i1i6cd/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Provectus** | Senior Forward Deployed AI Architect (GenAI, AWS) | NJ | \$200K to \$250K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri0cefywn/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri0cefywn/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1289,7 +1288,6 @@
 | **ABC Legal Services** | Technical Product Owner, Service of Process (SAFe) | Longmont, CO | \$90K to \$110K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjbxl44e0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjbxl44e0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Lyra Health** | Sr. Clinical Product Manager 🎓 | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rk4bzk95e/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rk4bzk95e/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Illumio** | Director, Global Public Sector Product Management <kbd>clearance</kbd> | DC |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rh8vozc3u/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rh8vozc3u/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Lone Wolf Technologies** | Senior Product Manager, Agent Growth | Minneapolis, MN |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ripu3odrk/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ripu3odrk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
