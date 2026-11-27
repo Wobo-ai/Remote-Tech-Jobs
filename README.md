@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,263 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:53 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,253 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:41 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (508) · [AI and ML](#remote-ai-and-ml-jobs) (220) · [Data](#remote-data-jobs) (154) · [Security](#remote-security-jobs) (122) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (504) · [AI and ML](#remote-ai-and-ml-jobs) (220) · [Data](#remote-data-jobs) (150) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (199) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -517,10 +517,6 @@
 | **OpenLoop Health** | Staff Site Reliability Engineer (DBRE), AWS & Databases | Des Moines, IA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s5zyn3lrk/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s5zyn3lrk/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **WellSky** | Staff Software Engineer - Python | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkihdjz2d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkihdjz2d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Skylight** | Principal Software Engineer, Lead (U.S. Air Force) | Remote (US) | \$180K to \$230K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s4nubn3s1/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s4nubn3s1/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Vector Solutions** | Director, Software Engineering | Tampa, FL |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri6k3l5cq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri6k3l5cq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Canals** | Senior Software Engineer - USA | San Francisco, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkqx9lepo/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkqx9lepo/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Ashby** | Senior Security Platform Engineer - Secure Delivery | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/riadlzy90/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/riadlzy90/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Stitch Fix** | Lead Platform Engineer | Remote (US) | \$113K to \$189K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjc2hxqfx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjc2hxqfx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -770,8 +766,6 @@
 | **Concept Plus** | Data Analytics Team Lead | Remote (US) |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/st0zv0i64/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/st0zv0i64/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Going** | Senior Data Engineer / Technical Lead | Remote (US) | from \$165K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ssner5eap/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ssner5eap/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Sedgwick** | Data Engineering Manager | TN |  | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swoi3wjov/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swoi3wjov/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Mass General Brigham** | Data Analyst II - Dept. of Surgery MGH | Boston, MA | \$31 to \$45/hr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swyif3p40/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swyif3p40/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Kyndryl** | Associate Director, Data Science | New York City, NY | \$144K to \$273K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swyu2y5ep/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swyu2y5ep/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **ICF** | Senior Data Scientist- Remote | Reston, VA | \$108K to \$184K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swovxli4o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swovxli4o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Humana** | Senior Data Engineer | Remote (US) | \$118K to \$162K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/swpblcb7a/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/swpblcb7a/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **GDIT** | Data Analyst Senior | Any Location | \$111K to \$150K/yr | Nov&nbsp;24 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sx160hn3d/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sx160hn3d/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
@@ -899,7 +893,6 @@
 | **Airwallex** | Staff Data Platform Engineer, Knowledge Platform | Seattle, WA |  | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rov1mrgc7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rov1mrgc7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Primoris** | Data Engineer | Dallas, TX | \$115K to \$120K/yr | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s2u8yk1ww/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s2u8yk1ww/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Bentley Systems** | Director, People Analytics & Governance | Exton, PA |  | Nov&nbsp;15 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rr088uhod/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rr088uhod/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Kyndryl** | Senior Marketing Analytics Lead | New York City, NY | \$100K to \$190K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rnl3997p0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rnl3997p0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Amgen** | Manager, Global Web Ecosystem - Web Analytics Lead (Remote) | Remote (US) | \$110K to \$149K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ro2nehf28/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ro2nehf28/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Movement Labs** | Senior Data Engineers | Remote (US) | \$90K to \$150K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkrjduizc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkrjduizc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **The Hanover Insurance Group** | Manager, Data Engineering & Platform Engineering (REMOTE OR MA BASED) | Worcester, MA |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rinm9284v/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rinm9284v/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
@@ -908,7 +901,6 @@
 | ↳ | Data Engineer - Remote | Rochester, NY | \$90K to \$140K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rijttmtc0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rijttmtc0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **V4c** | Lead Data Engineer, Databricks (Remote, US) | Remote (US) |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rijjd76dv/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rijjd76dv/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **BookNook, Inc** | Senior Analytics Engineer | Remote (US) | \$130K to \$160K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri5pc9qdb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri5pc9qdb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Agiloft** | Staff Data Engineer | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rjx1x1dw2/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rjx1x1dw2/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1037,7 +1029,6 @@
 | ↳ | Penetration Tester - Hardware (Texas/Florida) | FL +1 |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rj96lg7kb/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rj96lg7kb/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Penetration Tester (Texas/Florida) | TX +1 |  | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rj96i5l76/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rj96i5l76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Prime Data Centers** | Physical Security Engineer | Remote (US) | \$120K to \$145K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri835ilzy/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri835ilzy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Turquoise** | Senior Application Security Engineer | San Diego, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/s647bkfsy/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/s647bkfsy/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -1244,7 +1235,6 @@
 | **Akamai** | Principal User Experience Designer | Cambridge, MA | \$139K to \$251K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rik45d4q8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rik45d4q8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Phantom** | Senior Product Manager (Prediction Markets) | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri8b9p7un/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri8b9p7un/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Fieldguide** | Principal/Staff Product Manager, Risk Advisory | San Francisco, CA |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkmqcs96o/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkmqcs96o/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Canals** | Senior Product Manager | Denver, CO |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rkqx2rikp/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rkqx2rikp/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
