@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,312 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 3:04 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,310 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 4:05 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (529) · [AI and ML](#remote-ai-and-ml-jobs) (225) · [Data](#remote-data-jobs) (163) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (526) · [AI and ML](#remote-ai-and-ml-jobs) (225) · [Data](#remote-data-jobs) (164) · [Security](#remote-security-jobs) (123) · [Product and design](#remote-product-and-design-jobs) (212) · [Hardware](#remote-hardware-jobs) (60) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -539,9 +539,6 @@
 | **GameChanger** | Software Engineer, Ads | New York City, NY | \$120K to \$140K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri8b5tv8p/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri8b5tv8p/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Protective** | Sr Dynamics 365 App Developer (remote) | Remote (US) |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rickbwsld/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rickbwsld/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Aduna Global** | Developer Advocate - Network APIs | Dallas, TX |  | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rj879zp7n/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rj879zp7n/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Raydar** | Staff Desktop Software Engineer | Remote (US) | \$270K to \$350K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfzaoh6hx/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfzaoh6hx/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| ↳ | Senior Backend Software Engineer | Remote (US) | \$190K to \$300K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rfzalyrb8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rfzalyrb8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Anaconda** | Senior Software Engineer | Remote (US) | \$142K to \$191K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rftt6mmy6/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rftt6mmy6/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
@@ -784,6 +781,7 @@
 | **John Snow Labs** | Healthcare Data Scientist (Remote, International) | Remote (US) |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t3oarg0x3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t3oarg0x3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Jerry.ai** | Senior Data Scientist (growth-stage startup) | New York City, NY | \$160K to \$190K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t22tcptep/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t22tcptep/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Staff Data Scientist (growth-stage startup) | New York City, NY | \$200K to \$230K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t22tev8rh/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t22tev8rh/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| **Kraken** | Sr Product Manager - Quantitative Growth | Remote (US) |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t2yzkr5lg/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t2yzkr5lg/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **AVER** | Data Analyst | Washington, DC |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sxxudfhlc/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sxxudfhlc/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Compass Health Network** | Healthcare Quality & Data Analyst | Clinton, MO |  | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/sxpj1d39p/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/sxpj1d39p/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Seer Interactive** | Senior Analytics Associate | Remote (US) |  | Nov&nbsp;25 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/szxhvfy3f/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/szxhvfy3f/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
