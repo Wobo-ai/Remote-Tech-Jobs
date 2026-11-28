@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,243 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:06 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,241 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 27, 2026, 5:06 pm ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (501) · [AI and ML](#remote-ai-and-ml-jobs) (216) · [Data](#remote-data-jobs) (149) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (501) · [AI and ML](#remote-ai-and-ml-jobs) (214) · [Data](#remote-data-jobs) (149) · [Security](#remote-security-jobs) (121) · [Product and design](#remote-product-and-design-jobs) (197) · [Hardware](#remote-hardware-jobs) (59) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -735,8 +735,6 @@
 | **Positron** | Performance Modeling Engineer, AI Inference Deployments (Senior/Principal) | Remote (US) | \$220K to \$350K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri5phyx03/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri5phyx03/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | ML Systems Engineer, Model Architectures (Mid / Senior / Principal) | Remote (US) | \$160K to \$350K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri5pggc4w/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri5pggc4w/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Architecture & Performance Modeling Engineer, AI Inference Silicon (Senior / Principal) | Remote (US) | \$220K to \$270K/yr | Nov&nbsp;14 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ri5pdid3y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ri5pdid3y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| **Toast** | Staff Machine Learning Engineer - Vision AI | Remote (US) | \$193K to \$309K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/rittcayhq/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/rittcayhq/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
-| ↳ | Principal Machine Learning Engineer, Vision AI | Remote (US) | \$230K to \$368K/yr | Nov&nbsp;13 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/ritt8y9rj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/ritt8y9rj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 
 [Back to sections](#sections)
 
