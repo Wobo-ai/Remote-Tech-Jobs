@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,211 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 2:46 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,212 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 2:46 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (487) · [AI and ML](#remote-ai-and-ml-jobs) (209) · [Data](#remote-data-jobs) (143) · [Security](#remote-security-jobs) (115) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (57) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (487) · [AI and ML](#remote-ai-and-ml-jobs) (210) · [Data](#remote-data-jobs) (143) · [Security](#remote-security-jobs) (115) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (57) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -509,6 +509,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | **Terac** | Software Engineers: Interview on AI Coding Tools | Remote (US) | \$63/hr | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t6fyfru76/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t6fyfru76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Clera** | Founding AI / Backend Engineer | New York City, NY | \$180K/yr | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t4dwtljnj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t4dwtljnj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| **Miratech** | Principal AI Strategist | New York City, NY |  | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t8awvrssf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t8awvrssf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Provectus** | Senior Forward Deployed AI Architect (Claude, AWS) | New York City, NY | \$180K to \$250K/yr | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t6op2oro3/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t6op2oro3/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Lavendo** | Staff Software Engineer, Legal AI (SF / NYC / Chicago / Toronto) | San Francisco, CA | \$231K to \$340K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t2xbjevy7/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t2xbjevy7/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Clera** | Principal AI Architect | New York City, NY | \$270K to \$330K/yr | Nov&nbsp;26 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t04r2j0z8/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t04r2j0z8/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
