@@ -1,11 +1,11 @@
 # <a href="#remote-software-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Remote Tech Jobs (US) by Wobo" src="assets/banner.png"></picture></a>
 
-**1,212 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 2:46 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
+**1,216 open remote tech jobs for people in the US**, kept by Wobo. Read from employers' own career sites; the list is rebuilt every hour (last update Nov 28, 2026, 2:46 am ET). Every level, from intern to staff. Remote means the employer marks the role as fully remote. For each role, **View job** opens the job on US Remote Job List and **Auto apply** lets Wobo apply for you.
 
 > [!TIP]
 > **Tired of applying one by one?** [Let Wobo apply for you](https://www.wobo.ai/?utm_source=github&utm_medium=list&utm_campaign=remote-tech&utm_content=tip), with a resume tailored to each job. Free to start.
 
-<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (487) · [AI and ML](#remote-ai-and-ml-jobs) (210) · [Data](#remote-data-jobs) (143) · [Security](#remote-security-jobs) (115) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (57) · [About this list](#about-this-list)
+<a name="sections"></a>**Sections:** [Software](#remote-software-jobs) (488) · [AI and ML](#remote-ai-and-ml-jobs) (213) · [Data](#remote-data-jobs) (143) · [Security](#remote-security-jobs) (115) · [Product and design](#remote-product-and-design-jobs) (200) · [Hardware](#remote-hardware-jobs) (57) · [About this list](#about-this-list)
 
 🎓 Graduate degree required · <kbd>clearance</kbd> US security clearance required
 
@@ -13,6 +13,7 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **HireHawk** | Associate Software Engineer (Remote) \| United States | Chicago, IL | \$90K to \$110K/yr | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t7tqc2xrj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7tqc2xrj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Walrus** | Senior Software Engineer (Full Stack) | Remote (US) | \$190K to \$280K/yr | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t7de9oyay/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7de9oyay/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Terac** | Game Developers: 30-Minute Interview on Platform Selection | Remote (US) |  | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t6fyc8h8y/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t6fyc8h8y/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | ↳ | Game Developers: Paid Interview on Cross-Platform Porting Workflows | Remote (US) | \$94/hr | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t6fydamag/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t6fydamag/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
@@ -507,6 +508,9 @@
 
 | Company | Role | Location | Pay | Posted | Apply&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| **Mindrift** | US Adult with Health Insurance - Freelance AI Data Contributor | Anchorage, AK |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t7uvu0j0j/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7uvu0j0j/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| ↳ | Health Insurance Card Images - Freelance AI Data Contributor | Anchorage, AK |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t7ui7n5e0/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7ui7n5e0/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
+| ↳ | Health Insurance Card Holder - Freelance AI Data Contributor | Anchorage, AK |  | Nov&nbsp;28 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t7ui61jsi/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t7ui61jsi/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Terac** | Software Engineers: Interview on AI Coding Tools | Remote (US) | \$63/hr | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t6fyfru76/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t6fyfru76/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Clera** | Founding AI / Backend Engineer | New York City, NY | \$180K/yr | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t4dwtljnj/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t4dwtljnj/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
 | **Miratech** | Principal AI Strategist | New York City, NY |  | Nov&nbsp;27 | [![View job](assets/v.svg)](https://www.usremotejoblist.com/job/t8awvrssf/?utm_source=github) [![Auto apply](assets/a.svg)](https://www.wobo.ai/job/t8awvrssf/?utm_source=github&utm_medium=list&utm_campaign=remote-tech) |
